@@ -1,6 +1,6 @@
 {
-  "version": "4",
+  "version": "5",
   "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/main/update/Ferro.exe",
-  "sha256": "2e07658a9aed9ab8112a05d7330968fc1e3da78e990f790d38531c7673668c79",
-  "notes": "BUILD 4\n- The game now lives on GitHub and updates itself from the title screen\n- Code lock on first launch\n\nBUILD 3\n- Animation pass: every tool and gun has its own draw, swings and reloads\n- Look down and you see your own body; jackhammer\n- Junk piles, wrecks and barrels along the roads; mining outpost rebuilt\n- Helicopters remodelled; scrap exchange at the outpost"
+  "sha256": "45ccaba864cbe6143397b02a8f7f9ad024ea3dd0b3171ad9eb94dc9cb958161d",
+  "notes": "BUILD 5\n- Outpost fixed: the vending machines, the Air Wolf booth and the benches no longer vanish. Walk up, press E, pay in scrap\n- Rock: swings over and down in a curve, and is picked up without the toss\n- Hatchet: no flip when you take it out, and missed swings no longer twist the arms\n- Bow: carried low on the left with the arrow showing, lines up with the crosshair when drawn or aimed\n- Jackhammer: points at the crosshair, leans in and hammers while LMB is held\n- Eokas from loot are always loaded and no longer vanish in the hand\n- Shift-click hand-overs finish even if you close the box at once; loot crates don't take your items\n- The exe has its own icon\n\nBUILD 4\n- The game now lives on GitHub and updates itself from the title screen\n- Code lock on first launch\n\nBUILD 3\n- Animation pass: every tool and gun has its own draw, swings and reloads\n- Look down and you see your own body; jackhammer\n- Junk piles, wrecks and barrels along the roads; mining outpost rebuilt\n- Helicopters remodelled; scrap exchange at the outpost"
 }
