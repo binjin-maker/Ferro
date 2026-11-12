@@ -1,0 +1,6 @@
+{
+  "version": "4",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/main/update/Ferro.exe",
+  "sha256": "2e07658a9aed9ab8112a05d7330968fc1e3da78e990f790d38531c7673668c79",
+  "notes": "BUILD 4\n- The game now lives on GitHub and updates itself from the title screen\n- Code lock on first launch\n\nBUILD 3\n- Animation pass: every tool and gun has its own draw, swings and reloads\n- Look down and you see your own body; jackhammer\n- Junk piles, wrecks and barrels along the roads; mining outpost rebuilt\n- Helicopters remodelled; scrap exchange at the outpost"
+}
