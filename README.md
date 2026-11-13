@@ -22,8 +22,8 @@ After that, updates install themselves. The title screen checks [`update/latest.
 
 - A 2 km island with beaches, forest, desert and snow, roads, junk piles and wrecks
 - Gathering with rock, hatchets, pickaxes and a jackhammer; ore weak spots
-- Crafting, workbenches, research, recycling, furnaces and campfires
-- Base building: foundations, walls, doorways, windows, floors, stairs, roofs, five grades, tool cupboard and upkeep
+- Crafting, workbenches, blueprints bought with scrap at a research table, recycling, furnaces and campfires
+- Base building with a snapping ghost: foundations, steps, walls, half and low walls, doorways, windows, floors, stairs, roofs, five grades, stability, tool cupboard and upkeep
 - Bows, crossbow, pistols, shotguns and rifles, with their own draw, reload and action animations
 - Animals, scientists, radiation, weather, day and night
 - Monuments with loot, and an outpost with vendors, a scrap exchange and helicopters to buy and fly
