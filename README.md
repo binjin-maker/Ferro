@@ -27,7 +27,7 @@ After that, updates install themselves. The title screen checks [`update/latest.
 - Bows, crossbow, pistols, shotguns and rifles, with their own draw, reload and action animations
 - Animals, scientists, radiation, weather, day and night
 - Monuments with loot, and an outpost with vendors, a scrap exchange and helicopters to buy and fly
-- Ten radio stations of generated music
+- Ten radio stations: eight bands playing written songs, a numbers station and an ambient one
 
 ## Controls
 
