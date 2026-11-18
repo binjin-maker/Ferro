@@ -1,6 +1,6 @@
 {
-  "version": "12",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/468aec04bd1c9f94577b54123042fb29f9335026/update/Ferro.ex_",
-  "sha256": "4090ca6b3aa4e1d4761b3c02be2cbc2449b0d22154d50d2a2ce3e6f390a39dd1",
-  "notes": "BUILD 12\n- New guns: Python Revolver, M92 Pistol, LR-300, M249 and a Rocket Launcher (takes rockets). All craftable, researchable and in military crates; each has its own sound.\n- Reloads: magazines now actually come out and go back in on the pistols, SMGs, SAR and rifles; the gun rolls over so you can see it."
+  "version": "13",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9f8c9c346ed8a31fbc60cefe9b9a282ff68cd1d8/update/Ferro.ex_",
+  "sha256": "0e85641288b94c6a6b65b4e903f2366ddebc22a783f602e7805c830b24b40a9b",
+  "notes": "BUILD 13\n- Outpost sentry turrets on masts: indestructible, 150 m reach. Hurt an outpost scientist and they (and the guards) hunt you for 5 minutes.\n- Auto turrets at the broadcast tower, dish and warehouse: shorter range, slower fire, can be destroyed for scrap, frags, 5.56 and tech trash."
 }
