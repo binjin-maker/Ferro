@@ -1,6 +1,6 @@
 {
-  "version": "17",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/c95c1f3545a3f9dc0c88e954ae41b714a3fc6730/update/Ferro.ex_",
-  "sha256": "c0ea9d8d221593a8a1933d5a7dca859787d9858839d4281f5585635d74f5d61f",
-  "notes": "BUILD 17\n- Third person: out of a suit you are now an actual person (head, face, bare skin, shorts) dressed in whatever shirt, trousers and boots you have on.\n- Boots and shoes show on your feet in first person too.\n- Scientists find their way round buildings, crates, trees and rocks instead of walking into them."
+  "version": "18",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a6e5e4ac7f8e5fd890780fab0007c888d8e27a39/update/Ferro.ex_",
+  "sha256": "917d14551f73b4cad5577865d61741e41e4f5552d91a26d5beaea9af21d5bc31",
+  "notes": "BUILD 18\n- Third person removed."
 }
