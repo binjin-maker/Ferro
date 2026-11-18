@@ -1,6 +1,6 @@
 {
-  "version": "14",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/214c9bf03ad65dc2ea7173d046b6f43cb05102bc/update/Ferro.ex_",
-  "sha256": "eb66bf0e966e7272ffa16fafac5183b06efc5af459562361c4e4c06991d925f2",
-  "notes": "BUILD 14\n- Scientists toned down: 90 hp (was 150), 7 damage a hit (was 12), worse aim, longer pauses between bursts, they notice you from 38 m (was 55), only call others within 25 m and give up the search sooner.\n- Scientists no longer walk through walls, crates, trees and rocks."
+  "version": "15",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9a77e6adb7c16b64d1e0048466481e2c1f412da5/update/Ferro.ex_",
+  "sha256": "3a0f79d0719347f1529a4ef9171cb06b6f39912fc81f47d4c0ae5a706be6c436",
+  "notes": "BUILD 15\n- Three new suits: Arctic Hazmat (blue, 95% rad, warm, tougher; only in crates in the snow), Tactical Hazmat (black, head + chest slots only, works with NVGs, 75% rad; craftable) and Scientist Hazmat (100% rad; only at the broadcast tower). Slots a suit shuts off are shaded.\n- Scientists wear proper teal hazmat suits; more of them in the snow.\n- Third person: V. Hold ALT to swing the camera freely.\n- FEET slot with burlap shoes, hide boots and work boots.\n- Sights: the gun sits just under the aim point with a fine dot, so every sight is usable; the bolt action has a real scope.\n- Guns have real spread now, opening up the longer you hold the trigger and tighter down the sights or crouched.\n- Map pins (click the map, right-click to remove) show on the compass with distance, and so do your helicopters.\n- Scientists: steer round walls, head for where a shot came from, see further once alerted, hit a bit harder than build 14. Outpost turrets forget you when you die."
 }
