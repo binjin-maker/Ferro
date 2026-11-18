@@ -1,6 +1,6 @@
 {
-  "version": "11",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/deeb087504a681cacb5213796bf488c433f40ab4/update/Ferro.ex_",
-  "sha256": "e4e0d0dfef2b56c8d532ea19b3009b475d41f82a618cb197da2dd7e8057d6469",
-  "notes": "BUILD 11\n- Every gun has its own sound now: small guns snap, SMGs rattle, rifles crack, shotguns boom.\n- No shooting while sprinting.\n- Scientists: twice as many at each place (and some at the tower and dish), they call the others over, sidestep while firing, and come looking where they last saw you.\n- General Exchange at the outpost scrap exchange: sells anything you carry for a little scrap.\n- MAIN MENU in the pause menu.\n- Trees no longer block helicopters above their tops."
+  "version": "12",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/468aec04bd1c9f94577b54123042fb29f9335026/update/Ferro.ex_",
+  "sha256": "4090ca6b3aa4e1d4761b3c02be2cbc2449b0d22154d50d2a2ce3e6f390a39dd1",
+  "notes": "BUILD 12\n- New guns: Python Revolver, M92 Pistol, LR-300, M249 and a Rocket Launcher (takes rockets). All craftable, researchable and in military crates; each has its own sound.\n- Reloads: magazines now actually come out and go back in on the pistols, SMGs, SAR and rifles; the gun rolls over so you can see it."
 }
