@@ -1,6 +1,6 @@
 {
-  "version": "27",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/4e88d3bfb6334d9a14ec22e7dbc5faa563c3d95a/update/Ferro.ex_",
-  "sha256": "94cd4171a205011ca82dffe5720d6f9ffd8ee01cc922ff1a982af3212e899636",
-  "notes": "BUILD 27\n- Tracking Headset is cheaper: 5 HQM, 2 tech trash, 10 leather; 125 scrap to research; 350 on the black market.\n- Thermal Goggles reach 30 m instead of 50."
+  "version": "28",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/1dd9be273ce85664ec99078f93c1d7568be4fce4/update/Ferro.ex_",
+  "sha256": "eb651175785409b52fe851e4fec5687a6f230b531f01d946d49e3fa29205b99f",
+  "notes": "BUILD 28\n- Swapped round from build 27: the Thermal Goggles are now the cheap ones (5 HQM, 2 tech trash, 10 leather; bench 2; 125 scrap to research; 350 on the black market) and reach 50 m again.\n- The Tracking Headset is the dear one (15 HQM, 5 tech trash, 20 leather; bench 3; 500 scrap; 1200 on the black market) and now only reaches 45 m."
 }
