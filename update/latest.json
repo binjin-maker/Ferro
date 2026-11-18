@@ -1,6 +1,6 @@
 {
-  "version": "10",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/5dd8600721b8efd3a94715639a6cef1325e9562a/update/Ferro.ex_",
-  "sha256": "d9d26d393fcaa05d6271837bbd088b1bda6b834444a6abf889f1f39c4243693f",
-  "notes": "BUILD 10\n- Loot crates you opened but did not empty are replaced with fresh ones after 15 minutes (empty ones still take 10)."
+  "version": "11",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/deeb087504a681cacb5213796bf488c433f40ab4/update/Ferro.ex_",
+  "sha256": "e4e0d0dfef2b56c8d532ea19b3009b475d41f82a618cb197da2dd7e8057d6469",
+  "notes": "BUILD 11\n- Every gun has its own sound now: small guns snap, SMGs rattle, rifles crack, shotguns boom.\n- No shooting while sprinting.\n- Scientists: twice as many at each place (and some at the tower and dish), they call the others over, sidestep while firing, and come looking where they last saw you.\n- General Exchange at the outpost scrap exchange: sells anything you carry for a little scrap.\n- MAIN MENU in the pause menu.\n- Trees no longer block helicopters above their tops."
 }
