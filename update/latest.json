@@ -1,6 +1,6 @@
 {
-  "version": "23",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e1c934626c1d0a14fa459c95d31f71a0122b41e6/update/Ferro.ex_",
-  "sha256": "bb0118d7fa4b39f1b6cca5b1d1afd2118a91442c2bcb2352c79b60b9afc64c62",
-  "notes": "BUILD 23\n- Industrial Turrets: armoured, four barrels, three times an auto turret's health, faster fire, harder hits, longer reach. Explosives or a lot of rifle rounds.\n- Arms Depot is harder: six industrial turrets (two on the vault door, two on the gate, two on the flanks), six more heavies in the yard.\n- The Vault: a new room between the blockhouses behind a Vault Door that takes three C4. Inside: 4 locked crates, 4 gun cases, 2 crates, two heavies and an industrial turret.\n- Heavy Helicopter: sent when the Arms Depot or the Large Oil Rig is hit. Three times a patrol helicopter's health and a rocket every nine seconds or so. Only ever one; drops three crates.\n- Up to two patrol helicopters can now answer the same call.\n- Things to do with scrap at the outpost: a BLACK MARKET panel on the weapon vendor (Thompson to M249, launcher, rockets, C4, tactical hazmat, metal armour, at steep prices) and a SCRAP WHEEL on the parts vendor (bet 25 to 2500; x2, x3, x5, x20 or nothing; the house keeps a few percent)."
+  "version": "24",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/1fe6d80f59b71ea4c50042b7d0ee381b5fe05bb8/update/Ferro.ex_",
+  "sha256": "65dedc6881145765e2cb4bbda04512d29d1f9f15a8d1896ccaa74c6aba786bf4",
+  "notes": "BUILD 24\n- Turrets remodelled: a gun in a yoke on a tripod with a camera eye and an aerial over it (the outpost's stand on masts). Industrial turrets are the same idea made heavy: thick tripod, twin guns through an armoured shield, a drum each side."
 }
