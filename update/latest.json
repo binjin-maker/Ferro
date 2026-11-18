@@ -1,6 +1,6 @@
 {
-  "version": "25",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a09d2dde0b9ae485975c1ed032c0807ba846179f/update/Ferro.ex_",
-  "sha256": "69d6138ce38e546c435b98cf0cc528d75be687f9d69e24666c2ef30199897797",
-  "notes": "BUILD 25\n- Helicopter rockets toned down: half the damage, a smaller blast, and they are no longer aimed dead on you - most land a few metres off."
+  "version": "26",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/abce49e322cb2c92e21c77170ddb1bc0d7adf8e0/update/Ferro.ex_",
+  "sha256": "3fc9d31aa616b936f111c7e41b73823709f283989dc209e528034a0e0e42b16f",
+  "notes": "BUILD 26\n- Stronger armour: Heavy Plate Helmet, Jacket and Pants (bench 3; the jacket and pants slow you a little), and a Plate Suit that goes in the suit slot OVER your other clothes for another 25%. Armour now caps at 85%.\n- More gear: Road Sign Kilt, Combat Boots, a Large Backpack (+24 slots) and a Jetpack (back slot: hold SPACE in the air to burn low grade and climb).\n- Explosive 5.56: fits anything that takes 5.56. 40% more damage, bursts on impact for 40% splash within two metres, and blast and vault doors take 75% of the round's damage. Press B with the gun in hand to choose it, then R.\n- All of it is craftable and researchable, turns up in locked crates, and is on the black market.\n- Hold R with a gun out for the ammo menu: it shows every round the gun takes and how many you have. Slide the mouse to one and let go to load it. (A tap of R still just reloads; B still cycles.)\n- Thermal Goggles (eye slot, N to switch on): the world goes cold and dark and anything warm within 50 m glows through walls and rock - scientists, animals, turrets, fires, gunships.\n- Tracking Headset (eye slot, always on): a red box on every hostile within 100 m with what it is, what it is doing (idle, wandering, defending, responding, shooting) and the range."
 }
