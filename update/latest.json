@@ -1,6 +1,6 @@
 {
-  "version": "9",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/24cef062bdc2ea2f377450aef4fd056e8ef19d92/update/Ferro.ex_",
-  "sha256": "bd85b7fa1f5b3f4b2eb0aace7594225398ad8fef10bd32e594506a61ba45e64d",
-  "notes": "BUILD 9\n- Attack helicopter: the gun fires again (rounds were stopping on its own hull).\n- Scientists now see and shoot at a helicopter you are flying, out to about 110 m."
+  "version": "10",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/5dd8600721b8efd3a94715639a6cef1325e9562a/update/Ferro.ex_",
+  "sha256": "d9d26d393fcaa05d6271837bbd088b1bda6b834444a6abf889f1f39c4243693f",
+  "notes": "BUILD 10\n- Loot crates you opened but did not empty are replaced with fresh ones after 15 minutes (empty ones still take 10)."
 }
