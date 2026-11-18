@@ -1,6 +1,6 @@
 {
-  "version": "24",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/1fe6d80f59b71ea4c50042b7d0ee381b5fe05bb8/update/Ferro.ex_",
-  "sha256": "65dedc6881145765e2cb4bbda04512d29d1f9f15a8d1896ccaa74c6aba786bf4",
-  "notes": "BUILD 24\n- Turrets remodelled: a gun in a yoke on a tripod with a camera eye and an aerial over it (the outpost's stand on masts). Industrial turrets are the same idea made heavy: thick tripod, twin guns through an armoured shield, a drum each side."
+  "version": "25",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a09d2dde0b9ae485975c1ed032c0807ba846179f/update/Ferro.ex_",
+  "sha256": "69d6138ce38e546c435b98cf0cc528d75be687f9d69e24666c2ef30199897797",
+  "notes": "BUILD 25\n- Helicopter rockets toned down: half the damage, a smaller blast, and they are no longer aimed dead on you - most land a few metres off."
 }
