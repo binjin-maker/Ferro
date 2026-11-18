@@ -1,6 +1,6 @@
 {
-  "version": "29",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/5b6bd9d145349f979d603e8218affd82e3b6868f/update/Ferro.ex_",
-  "sha256": "cf0f3158d17a5fca316710a776def29577efe137e8913049e161f2a07b9f7136",
-  "notes": "BUILD 29\n- Icons: every newer item (rockets onward) could show as blank on some graphics cards because the icon sheet was taller than 2048 pixels. It now fits.\n- Explosive 5.56 has its own model (black band, red tip), goes off with a small blast where it lands, and does 20% of the rifle's damage to blast and vault doors (was 75%).\n- The hotbar shows which round is loaded in each gun, in the corner of its slot.\n- Eoka: no longer splits after one shot. It reloads with handmade shells (also buckshot or a pistol bullet), wears out over a dozen or so shots, and can be repaired.\n- Crates dropped by helicopters and boats are gone after five minutes; the crate window shows the countdown.\n- /boss (dev mode) brings the attack helicopter in.\n- Jetpack removed."
+  "version": "30",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e949d0b71ff38d4cdb648fb53ccb6b89695ced3f/update/Ferro.ex_",
+  "sha256": "9d43b8cba351e1e73329dafe980c823092e8279a7acfe5b645ebdb2e202e3225",
+  "notes": "BUILD 30\n- Reloads: your hands now do the work. The left hand closes around the magazine to pull it and seat the new one, hooks the charging handle to rack it, and the trigger finger comes off the trigger while you reload. Shotguns get the same treatment while feeding shells.\n- Faster: things too small or too far to cast a shadow you could see no longer get drawn into the shadow maps (about 40% fewer shadow draws at busy monuments), and objects smaller than a pixel or two are skipped."
 }
