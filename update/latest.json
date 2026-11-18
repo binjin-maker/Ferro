@@ -1,6 +1,6 @@
 {
-  "version": "8",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/7835431ddcc19840490930885b91e7009023f286/update/Ferro.ex_",
-  "sha256": "1e1ee3e77abe42cd67f9c70da1ad18d278909e3e5c17da4cabc6186a6c1b6465",
-  "notes": "BUILD 8\n- Tools: fists now roll round the handle with the swing, so wrists no longer flip at the ends of a chop.\n- Rock: new one-handed overhand smash.\n- Backpack: craft it (50 cloth, 10 leather), wear it in the new BACK slot for 12 more inventory slots.\n- Semi, SMG and rifle bodies can be crafted (Components tab). Handmade shells: 5 per craft from gunpowder, metal fragments and stone.\n- Revolver and Custom SMG also take handmade shells; waterpipe, double barrel and blunderbuss also take pistol bullets.\n- Death screen: 4 second wait before you can respawn.\n- Gas station pumps can be broken open for low grade fuel, metal fragments and scrap.\n- Helicopters are cheaper: Minicopter 500, Transport 850, Attack 1500.\n- Attack helicopter has an inside now."
+  "version": "9",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/24cef062bdc2ea2f377450aef4fd056e8ef19d92/update/Ferro.ex_",
+  "sha256": "bd85b7fa1f5b3f4b2eb0aace7594225398ad8fef10bd32e594506a61ba45e64d",
+  "notes": "BUILD 9\n- Attack helicopter: the gun fires again (rounds were stopping on its own hull).\n- Scientists now see and shoot at a helicopter you are flying, out to about 110 m."
 }
