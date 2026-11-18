@@ -1,6 +1,6 @@
 {
-  "version": "20",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/22d49fcfc208bfec8c5d01254c14e7f16e6cdfc4/update/Ferro.ex_",
-  "sha256": "523fe43f2adcc9a25e81e1dd5ff52f47f140bbac8d27439b399e9ae53a5ed59e",
-  "notes": "BUILD 20\n- The radio and boom box are gone (old ones are dead weight you can sell). Music now plays by itself: quiet ambient while nothing is happening, and industrial techno or rock the moment a fight starts, fading back out about fifteen seconds after it ends."
+  "version": "21",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/daed4e149c7ffb3cd19250b3429bdbf61eb5f29b/update/Ferro.ex_",
+  "sha256": "0f07738839d4e4bdae0ae9d166ff1562dc6f030beaec8bf2ca7e1337e5c5154d",
+  "notes": "BUILD 21\n- Satchel charges (bench 1) and C4 (bench 3): hold one, left-click to stick it where you are looking, fuse 8 / 10 seconds. One C4 = four satchels; one C4 takes down a blast door. Both also turn up in locked crates."
 }
