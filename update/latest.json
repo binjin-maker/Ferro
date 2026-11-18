@@ -1,6 +1,6 @@
 {
-  "version": "18",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a6e5e4ac7f8e5fd890780fab0007c888d8e27a39/update/Ferro.ex_",
-  "sha256": "917d14551f73b4cad5577865d61741e41e4f5552d91a26d5beaea9af21d5bc31",
-  "notes": "BUILD 18\n- Third person removed."
+  "version": "19",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f3959576c78d8cd748de8b328c311ef44b9f0621/update/Ferro.ex_",
+  "sha256": "519f1d7776b55923acf460a55ea06942929c4810286401c3cbcbe6e0e26f415c",
+  "notes": "BUILD 19  -  THE RAID UPDATE\n- OIL RIG out at sea (on the map): a stepped pier from the waterline up to the deck, heavy scientists, auto turrets, and locked crates in the crew quarters.\n- BUNKER dug in under rock on land: a blast door only explosives will open (two rockets), then turrets, heavies and three vaults of locked crates.\n- Heavy scientists: black suits, twice the health, hit harder.\n- Locked crates: E starts a 50 second lock and calls reinforcements. Best loot in the game (AK, LR-300, M249, launcher, rockets, HQM, armour) plus fuel.\n- Reinforcements: a patrol helicopter gunship comes when you kill a heavy, drop a blast door or work a lock; at the rig a scientist gunboat circles too. Both can be shot down; the gunship drops two open elite crates where it falls on land.\n- The patrol helicopter also turns up on its own every half hour or so.\n- Minicopter gun mode (F): you can now look around and aim; the key is in the minicopter's control line.\n- Bullets lose damage with distance: pistol rounds from 20 m, rifle rounds from 60 m."
 }
