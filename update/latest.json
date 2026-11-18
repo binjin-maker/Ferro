@@ -1,6 +1,6 @@
 {
-  "version": "28",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/1dd9be273ce85664ec99078f93c1d7568be4fce4/update/Ferro.ex_",
-  "sha256": "eb651175785409b52fe851e4fec5687a6f230b531f01d946d49e3fa29205b99f",
-  "notes": "BUILD 28\n- Swapped round from build 27: the Thermal Goggles are now the cheap ones (5 HQM, 2 tech trash, 10 leather; bench 2; 125 scrap to research; 350 on the black market) and reach 50 m again.\n- The Tracking Headset is the dear one (15 HQM, 5 tech trash, 20 leather; bench 3; 500 scrap; 1200 on the black market) and now only reaches 45 m."
+  "version": "29",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/5b6bd9d145349f979d603e8218affd82e3b6868f/update/Ferro.ex_",
+  "sha256": "cf0f3158d17a5fca316710a776def29577efe137e8913049e161f2a07b9f7136",
+  "notes": "BUILD 29\n- Icons: every newer item (rockets onward) could show as blank on some graphics cards because the icon sheet was taller than 2048 pixels. It now fits.\n- Explosive 5.56 has its own model (black band, red tip), goes off with a small blast where it lands, and does 20% of the rifle's damage to blast and vault doors (was 75%).\n- The hotbar shows which round is loaded in each gun, in the corner of its slot.\n- Eoka: no longer splits after one shot. It reloads with handmade shells (also buckshot or a pistol bullet), wears out over a dozen or so shots, and can be repaired.\n- Crates dropped by helicopters and boats are gone after five minutes; the crate window shows the countdown.\n- /boss (dev mode) brings the attack helicopter in.\n- Jetpack removed."
 }
