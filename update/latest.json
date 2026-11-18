@@ -1,6 +1,6 @@
 {
-  "version": "13",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9f8c9c346ed8a31fbc60cefe9b9a282ff68cd1d8/update/Ferro.ex_",
-  "sha256": "0e85641288b94c6a6b65b4e903f2366ddebc22a783f602e7805c830b24b40a9b",
-  "notes": "BUILD 13\n- Outpost sentry turrets on masts: indestructible, 150 m reach. Hurt an outpost scientist and they (and the guards) hunt you for 5 minutes.\n- Auto turrets at the broadcast tower, dish and warehouse: shorter range, slower fire, can be destroyed for scrap, frags, 5.56 and tech trash."
+  "version": "14",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/214c9bf03ad65dc2ea7173d046b6f43cb05102bc/update/Ferro.ex_",
+  "sha256": "eb66bf0e966e7272ffa16fafac5183b06efc5af459562361c4e4c06991d925f2",
+  "notes": "BUILD 14\n- Scientists toned down: 90 hp (was 150), 7 damage a hit (was 12), worse aim, longer pauses between bursts, they notice you from 38 m (was 55), only call others within 25 m and give up the search sooner.\n- Scientists no longer walk through walls, crates, trees and rocks."
 }
