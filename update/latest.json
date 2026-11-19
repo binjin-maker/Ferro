@@ -1,6 +1,6 @@
 {
-  "version": "45",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d4c7e66a6d6d51992ad79a587b6844cf69ba2b3a/update/Ferro.ex_",
-  "sha256": "860a703cbd03461758fbb8008f556c945cac16127a2f5a70e9b73e7abdd598b0",
-  "notes": "BUILD 45\n- Closed the money loop at the Outpost: buying wood, stone and metal fragments now costs more than you get for selling them (wood 60 / 40, stone 75 / 50, fragments 45 / 30 per lot)."
+  "version": "46",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9476486424764cf675aa0ba310aeeb9dbeba6b13/update/Ferro.ex_",
+  "sha256": "86be2c68c936658bb41fe53987bad7a3bba71a242263aaf572886c10808d63de",
+  "notes": "BUILD 46\n- Regular scientists are tougher: 150 health (was 115), 14 damage a hit (was 10.5), shorter pauses between bursts and slightly better aim.\n- Roaming survivors are tougher: 85 health (was 55), 11 damage (was 9), and they shoot faster.\n- Heavy scientists are unchanged."
 }
