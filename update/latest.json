@@ -1,6 +1,6 @@
 {
-  "version": "37",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e9120da250f1a0f538eda563c15c133af16f213d/update/Ferro.ex_",
-  "sha256": "be5cd1cf65ea5947a0961050ca9b168b63ead64d190a8cb3869ddeb658817282",
-  "notes": "BUILD 37\n- Attack helicopter cockpit: the stray sliver of nose showing over the dash is gone, and the canopy bars now run down into the cockpit walls instead of ending in mid-air.\n- Holding ALT to look around in a helicopter follows your mouse sensitivity setting."
+  "version": "38",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d34a60bbd61aad7657b0d22dae65c3afc5a53ee4/update/Ferro.ex_",
+  "sha256": "4398d524334f38074ee3c9ed76300f11d41fe7dc6e23fe7f965ccbf4adb34a2e",
+  "notes": "BUILD 38\n- Loading a save made while flying puts you back in the pilot's seat. If there is no helicopter to sit in, you are set down on the ground instead of falling to your death.\n- /undev turns dev mode (and god and fly) off."
 }
