@@ -1,6 +1,6 @@
 {
-  "version": "54",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/84c4e61d2f995215dd2dae9f0da8c771e656db5c/update/Ferro.ex_",
-  "sha256": "e31f78d201ef5a994ec73790e785af8f5b2cf1cb029496eaf366595675647553",
-  "notes": "BUILD 54\n- Rope can be crafted: 20 cloth each, level 1 workbench, researched for 50 scrap. (The recycler gives 15 cloth back for a rope, so it cannot be looped.)"
+  "version": "55",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/fae9ac33fba4aef8233d27c8446f699119f8b8d3/update/Ferro.ex_",
+  "sha256": "4725cfa575ebf3ac2a1962458c320f18e12fc821aca53a3ba1907e91093231dc",
+  "notes": "BUILD 55\n- Footstep sounds are tied to the leg animation: each step is heard as that foot comes down, at any speed."
 }
