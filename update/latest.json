@@ -1,6 +1,6 @@
 {
-  "version": "55",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/fae9ac33fba4aef8233d27c8446f699119f8b8d3/update/Ferro.ex_",
-  "sha256": "4725cfa575ebf3ac2a1962458c320f18e12fc821aca53a3ba1907e91093231dc",
-  "notes": "BUILD 55\n- Footstep sounds are tied to the leg animation: each step is heard as that foot comes down, at any speed."
+  "version": "56",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/017ec0ac44c8176fe66d2718b1388735ef6850f2/update/Ferro.ex_",
+  "sha256": "dbddd177797671a00eabcfd391540213ff5a0f4b72f975c831b387f9312b2924",
+  "notes": "BUILD 56\n- Syringe: the needle goes into your forearm now (it used to land in your palm). A quick stab, the plunger pressed home, a flinch, and out. New sound: cap, needle, the press of the plunger.\n- Bandage: wound three turns up the forearm and torn off with a tug. New sound: three pulls of cloth and the tear."
 }
