@@ -1,6 +1,6 @@
 {
-  "version": "33",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/58e0a960d33e05fa1331001d6fef777d8fb175ee/update/Ferro.ex_",
-  "sha256": "76db6907d3a37cf7a8b993f9c6720ea5176fa7c39366804ce5edf2b714d7022d",
-  "notes": "BUILD 33\n- Chainsaw: a powered tool for trees (and anything else that stands too close). Craft it at a level 2 bench or buy it at the Resource Exchange for 150 scrap.\n- CHECK FOR UPDATES button on the main menu: look for a new build and install it without closing the game first.\n- The DECAYING / upkeep notice now catches up within a moment of stocking the tool cupboard."
+  "version": "34",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d5c9a8eba34791fa76ab7d8cc5a3ba9b0a5fe0ac/update/Ferro.ex_",
+  "sha256": "15dcb4a3ed6bc71c31e045723d34f0dab3bd43bc10e96d8ba99da579d6a4f9ef",
+  "notes": "BUILD 34\n- Survivors and traders are proper people now: clothes, a woollen hat, a backpack with straps. Traders wear red and a yellow hat; the armed ones are in drab green with a black hat."
 }
