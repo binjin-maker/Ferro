@@ -1,6 +1,6 @@
 {
-  "version": "31",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/64699b12f3bf3e97a306aff9a3a25bb1f15627eb/update/Ferro.ex_",
-  "sha256": "abb94110c609d006738c5f41df670a30b4b927b66a4623d834f366218de00243",
-  "notes": "BUILD 31\n- Settings (sensitivity, volumes, field of view, fullscreen) are saved to ferro.cfg next to the game and survive closing and updating.\n- Volume is split: SOUND EFFECTS and MUSIC have their own sliders.\n- Survivors: lightly armed loners wander the island (weaker than scientists, single shots, poor loot). Peaceful ones stand inside the Outpost; press E on one to trade.\n- A red sight with a countdown shows in the top right while the Outpost turrets are locked on to you.\n- Items that shared an icon now look different: heavy helmet, heavy jacket, plate suit, thermal goggles, tracking headset, large backpack, work and combat boots.\n- Explosive 5.56 is a normal round with two black painted stripes.\n- The sea is much quieter and only heard near the shore.\n- Eoka no longer needs gunpowder to craft."
+  "version": "32",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/771c5b0ec75c507c56b935e1e58197d0433b85b9/update/Ferro.ex_",
+  "sha256": "869abd99b8134655a89845965ed645ad78ed1b0487dea92309c89a298632a7d2",
+  "notes": "BUILD 32\n- Heavy plate is now properly stronger than the metal facemask and chest plate (helmet, jacket and pants all buffed).\n- Combat music keeps playing until you are about 140 m clear of the fight, or 2:30 has passed with no fighting."
 }
