@@ -1,6 +1,6 @@
 {
-  "version": "52",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/795b476b2eb57fca0e2d59a63474bf073a62076b/update/Ferro.ex_",
-  "sha256": "6adb2053185242da9d8d1fe74cc62fe2be749e75733818d3261eb28f1212377d",
-  "notes": "BUILD 52\n- Your last death is marked on the map (a black disc with a white cross, \"DIED HERE\") and as an X on the compass, so you can find your way back to your bag."
+  "version": "53",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/1e228bf5381cb8b2702490ef6bad804226ad0b2e/update/Ferro.ex_",
+  "sha256": "ca425fc82b68a7ae9969f7d4059e81156ff0df1cd0dee8c1d3c413a434005b70",
+  "notes": "BUILD 53\n- Sewing kits can be crafted: 20 cloth + 3 rope, level 1 workbench, researched for 50 scrap.\n- Sheet metal can be crafted: 10 scrap + 150 metal fragments + 2 high quality metal, level 2 workbench, researched for 75 scrap.\n- Both cost more to make than the recycler gives back (10 cloth + 2 rope, and 8 scrap + 100 fragments + 1 high quality metal), so they cannot be looped."
 }
