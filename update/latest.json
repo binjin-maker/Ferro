@@ -1,6 +1,6 @@
 {
-  "version": "32",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/771c5b0ec75c507c56b935e1e58197d0433b85b9/update/Ferro.ex_",
-  "sha256": "869abd99b8134655a89845965ed645ad78ed1b0487dea92309c89a298632a7d2",
-  "notes": "BUILD 32\n- Heavy plate is now properly stronger than the metal facemask and chest plate (helmet, jacket and pants all buffed).\n- Combat music keeps playing until you are about 140 m clear of the fight, or 2:30 has passed with no fighting."
+  "version": "33",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/58e0a960d33e05fa1331001d6fef777d8fb175ee/update/Ferro.ex_",
+  "sha256": "76db6907d3a37cf7a8b993f9c6720ea5176fa7c39366804ce5edf2b714d7022d",
+  "notes": "BUILD 33\n- Chainsaw: a powered tool for trees (and anything else that stands too close). Craft it at a level 2 bench or buy it at the Resource Exchange for 150 scrap.\n- CHECK FOR UPDATES button on the main menu: look for a new build and install it without closing the game first.\n- The DECAYING / upkeep notice now catches up within a moment of stocking the tool cupboard."
 }
