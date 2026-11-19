@@ -1,6 +1,6 @@
 {
-  "version": "41",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d68ee15c4eef4064e1a53853052af7d89e57f32a/update/Ferro.ex_",
-  "sha256": "9b8b480673fe6d655aee4bd1a4a644f5f4ea91442bc6a1c97742308d25167fce",
-  "notes": "BUILD 41\n- /loadout (dev mode) remembers everything you are carrying and wearing and gives it back every time you respawn. It is kept between sessions. /loadoutclear goes back to a rock and a torch.\n- /kill works without dev mode and the death screen says Suicide.\n- The full heavy plate set (helmet, jacket, pants) takes bullet and melee protection to 90%."
+  "version": "42",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/3f70930269bfb12f33913723f97f7a3826434cc8/update/Ferro.ex_",
+  "sha256": "605565eb04d6dbd8a7084448cbbc531971a5e77c59250de38c4f18294299b00a",
+  "notes": "BUILD 42\n- Jacket: a lined jacket for the suit slot, worn over your other clothes like the plate suit. Some cold protection, a little radiation protection, next to no armour. Everyone knows how to make it (level 1 bench: 60 cloth, 20 leather, a sewing kit)."
 }
