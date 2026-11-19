@@ -1,6 +1,6 @@
 {
-  "version": "56",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/017ec0ac44c8176fe66d2718b1388735ef6850f2/update/Ferro.ex_",
-  "sha256": "dbddd177797671a00eabcfd391540213ff5a0f4b72f975c831b387f9312b2924",
-  "notes": "BUILD 56\n- Syringe: the needle goes into your forearm now (it used to land in your palm). A quick stab, the plunger pressed home, a flinch, and out. New sound: cap, needle, the press of the plunger.\n- Bandage: wound three turns up the forearm and torn off with a tug. New sound: three pulls of cloth and the tear."
+  "version": "57",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/25bcc8152e8616ff0a2183b465761defb11f1f53/update/Ferro.ex_",
+  "sha256": "f1c6f6a81585b8cde31ac5b73c606faec21e415be1adc0cd3ccc8210a9271653",
+  "notes": "BUILD 57\n- Syringe: the plunger really goes down the barrel and the red in it empties as you inject.\n- Bandage: the bandage shows on your forearm as it goes on.\n- Rifle reload reworked beat by beat: the hand closes on the magazine and rocks it off its catch before stripping it out; the fresh one hooks in and rocks home; the hand lets go and slaps it from underneath with a flat palm; then two fingers hook the charging handle, haul it back and let it fly. The rifle turns in your hands as the work moves from the magazine well to the handle, and takes the knocks. A slap sound was added.\n- The chainsaw's chain and the jackhammer's bit now actually move (they were built to, but were not being drawn as moving parts)."
 }
