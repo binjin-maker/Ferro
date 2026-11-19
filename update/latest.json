@@ -1,6 +1,6 @@
 {
-  "version": "35",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/0bc137e59277da60e4c4d159665d227ee1e624f5/update/Ferro.ex_",
-  "sha256": "9cbd480136774ace0c9fec774fd60261057fad3a6c7bf13a7b3744030312ab63",
-  "notes": "BUILD 35\n- Chainsaw: sounds like a two-stroke saw now, sweeps right to left on its side, and stops and leans into the cut while it is biting. The chain runs round the bar. The jackhammer's bit hammers in and out.\n- Large Oil Rig is its own place: a bridge leads to a second platform with a Vault behind a vault door (four locked crates, gun cases), industrial turrets and a lot more heavy scientists.\n- Your attack helicopter: gun and rockets converge on the crosshair, tracers are bright and easy to follow, rounds kick up dust where they land, and it turns and lifts more willingly. It fires explosive 5.56 first if any is loaded in the hatch.\n- The roaming attack helicopter (the boss) is harder: far more armour, longer bursts from further out, rockets more often.\n- Survivors and traders: no more bare shoulders, clothes look like cloth instead of skin, real eyes, brows and mouth, straps sit on the body.\n- Scrap Exchange pays properly: 1000 wood = 40 scrap, 1000 stone = 50, 250 metal fragments = 30."
+  "version": "36",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/4f499bf9e1e7022abc01a7585d178f7491cdfae0/update/Ferro.ex_",
+  "sha256": "0e0388eb89b6ef052305e8fda0c9ca3158027971116278d9cbe12df39f41449b",
+  "notes": "BUILD 36\n- Attack helicopter: the gun and rockets now really go where the crosshair is. The view looks slightly below the nose and the aim was still following the nose.\n- Explosive 5.56 fired from the attack helicopter hits 50% harder than plain rounds, on top of its blast."
 }
