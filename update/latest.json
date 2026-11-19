@@ -1,6 +1,6 @@
 {
-  "version": "36",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/4f499bf9e1e7022abc01a7585d178f7491cdfae0/update/Ferro.ex_",
-  "sha256": "0e0388eb89b6ef052305e8fda0c9ca3158027971116278d9cbe12df39f41449b",
-  "notes": "BUILD 36\n- Attack helicopter: the gun and rockets now really go where the crosshair is. The view looks slightly below the nose and the aim was still following the nose.\n- Explosive 5.56 fired from the attack helicopter hits 50% harder than plain rounds, on top of its blast."
+  "version": "37",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e9120da250f1a0f538eda563c15c133af16f213d/update/Ferro.ex_",
+  "sha256": "be5cd1cf65ea5947a0961050ca9b168b63ead64d190a8cb3869ddeb658817282",
+  "notes": "BUILD 37\n- Attack helicopter cockpit: the stray sliver of nose showing over the dash is gone, and the canopy bars now run down into the cockpit walls instead of ending in mid-air.\n- Holding ALT to look around in a helicopter follows your mouse sensitivity setting."
 }
