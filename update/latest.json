@@ -1,6 +1,6 @@
 {
-  "version": "38",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d34a60bbd61aad7657b0d22dae65c3afc5a53ee4/update/Ferro.ex_",
-  "sha256": "4398d524334f38074ee3c9ed76300f11d41fe7dc6e23fe7f965ccbf4adb34a2e",
-  "notes": "BUILD 38\n- Loading a save made while flying puts you back in the pilot's seat. If there is no helicopter to sit in, you are set down on the ground instead of falling to your death.\n- /undev turns dev mode (and god and fly) off."
+  "version": "39",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/8ffb14d0f491ce4d141f1e76460c63f0cac919b7/update/Ferro.ex_",
+  "sha256": "56f697facd6698d5709414bfc3333c145f7d72ea4765ab7304e740bf1891bb50",
+  "notes": "BUILD 39\n- /mini (dev mode) spawns a fuelled minicopter where your crosshair is."
 }
