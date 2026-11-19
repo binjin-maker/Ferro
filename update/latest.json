@@ -1,6 +1,6 @@
 {
-  "version": "53",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/1e228bf5381cb8b2702490ef6bad804226ad0b2e/update/Ferro.ex_",
-  "sha256": "ca425fc82b68a7ae9969f7d4059e81156ff0df1cd0dee8c1d3c413a434005b70",
-  "notes": "BUILD 53\n- Sewing kits can be crafted: 20 cloth + 3 rope, level 1 workbench, researched for 50 scrap.\n- Sheet metal can be crafted: 10 scrap + 150 metal fragments + 2 high quality metal, level 2 workbench, researched for 75 scrap.\n- Both cost more to make than the recycler gives back (10 cloth + 2 rope, and 8 scrap + 100 fragments + 1 high quality metal), so they cannot be looped."
+  "version": "54",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/84c4e61d2f995215dd2dae9f0da8c771e656db5c/update/Ferro.ex_",
+  "sha256": "e31f78d201ef5a994ec73790e785af8f5b2cf1cb029496eaf366595675647553",
+  "notes": "BUILD 54\n- Rope can be crafted: 20 cloth each, level 1 workbench, researched for 50 scrap. (The recycler gives 15 cloth back for a rope, so it cannot be looped.)"
 }
