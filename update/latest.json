@@ -1,6 +1,6 @@
 {
-  "version": "30",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e949d0b71ff38d4cdb648fb53ccb6b89695ced3f/update/Ferro.ex_",
-  "sha256": "9d43b8cba351e1e73329dafe980c823092e8279a7acfe5b645ebdb2e202e3225",
-  "notes": "BUILD 30\n- Reloads: your hands now do the work. The left hand closes around the magazine to pull it and seat the new one, hooks the charging handle to rack it, and the trigger finger comes off the trigger while you reload. Shotguns get the same treatment while feeding shells.\n- Faster: things too small or too far to cast a shadow you could see no longer get drawn into the shadow maps (about 40% fewer shadow draws at busy monuments), and objects smaller than a pixel or two are skipped."
+  "version": "31",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/64699b12f3bf3e97a306aff9a3a25bb1f15627eb/update/Ferro.ex_",
+  "sha256": "abb94110c609d006738c5f41df670a30b4b927b66a4623d834f366218de00243",
+  "notes": "BUILD 31\n- Settings (sensitivity, volumes, field of view, fullscreen) are saved to ferro.cfg next to the game and survive closing and updating.\n- Volume is split: SOUND EFFECTS and MUSIC have their own sliders.\n- Survivors: lightly armed loners wander the island (weaker than scientists, single shots, poor loot). Peaceful ones stand inside the Outpost; press E on one to trade.\n- A red sight with a countdown shows in the top right while the Outpost turrets are locked on to you.\n- Items that shared an icon now look different: heavy helmet, heavy jacket, plate suit, thermal goggles, tracking headset, large backpack, work and combat boots.\n- Explosive 5.56 is a normal round with two black painted stripes.\n- The sea is much quieter and only heard near the shore.\n- Eoka no longer needs gunpowder to craft."
 }
