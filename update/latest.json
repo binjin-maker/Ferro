@@ -1,6 +1,6 @@
 {
-  "version": "46",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9476486424764cf675aa0ba310aeeb9dbeba6b13/update/Ferro.ex_",
-  "sha256": "86be2c68c936658bb41fe53987bad7a3bba71a242263aaf572886c10808d63de",
-  "notes": "BUILD 46\n- Regular scientists are tougher: 150 health (was 115), 14 damage a hit (was 10.5), shorter pauses between bursts and slightly better aim.\n- Roaming survivors are tougher: 85 health (was 55), 11 damage (was 9), and they shoot faster.\n- Heavy scientists are unchanged."
+  "version": "47",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9a6243e084b6d500c11515cf8db7ae7c6818f63c/update/Ferro.ex_",
+  "sha256": "c74f7b484129d4dff9e25f2e4d92ddf333ddfeff50cb7edcbfa01f777ba7b3f6",
+  "notes": "BUILD 47\n- Regular scientists are tougher: 150 health (was 115), 14 damage a hit (was 10.5), shorter pauses between bursts and slightly better aim.\n- Roaming survivors are tougher: 85 health (was 55), 11 damage (was 9), and they shoot faster.\n- Heavy scientists are unchanged.\n- Helicopter repairs: park on any helipad, look at the craft from outside and press H. Each press restores a quarter of its health. Minicopter 15 scrap + 60 metal fragments, transport 25 scrap + 120 fragments, attack helicopter 30 scrap + 10 high quality metal. The prompt shows the craft's health."
 }
