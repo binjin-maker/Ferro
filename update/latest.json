@@ -1,6 +1,6 @@
 {
-  "version": "42",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/3f70930269bfb12f33913723f97f7a3826434cc8/update/Ferro.ex_",
-  "sha256": "605565eb04d6dbd8a7084448cbbc531971a5e77c59250de38c4f18294299b00a",
-  "notes": "BUILD 42\n- Jacket: a lined jacket for the suit slot, worn over your other clothes like the plate suit. Some cold protection, a little radiation protection, next to no armour. Everyone knows how to make it (level 1 bench: 60 cloth, 20 leather, a sewing kit)."
+  "version": "43",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/54967398d44f73ae53ca6de1ade6ad0df0fe89b8/update/Ferro.ex_",
+  "sha256": "1bd373788498ba2b9e1633f9d205a9dc7babf1bc8ec4a1cb354774e6f7675b35",
+  "notes": "BUILD 43\n- Flashlight: an angle-head lamp, on whenever it is in your hand, with a beam that lands where you look. Level 1 bench, 40 metal fragments and 5 cloth.\n- Headlamp: goes in the eyes slot, N switches it on, hands stay free. About half an hour of battery; recharge at a level 2 workbench."
 }
