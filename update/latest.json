@@ -1,6 +1,6 @@
 {
-  "version": "51",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/4781868367ad953e1f87e428dd93f0e78c45efe2/update/Ferro.ex_",
-  "sha256": "33be7e0ae2f32feeea1fd7e795d970ee00057bf71286de27e417ca62d7499a9f",
-  "notes": "BUILD 51\n- Flashlight and headlamp throw a real beam now: a cone of light from the lamp that widens with distance and lights whatever it crosses, instead of a glow dropped where the crosshair is. The headlamp's cone is wider and softer, the flashlight's is tighter and reaches further."
+  "version": "52",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/795b476b2eb57fca0e2d59a63474bf073a62076b/update/Ferro.ex_",
+  "sha256": "6adb2053185242da9d8d1fe74cc62fe2be749e75733818d3261eb28f1212377d",
+  "notes": "BUILD 52\n- Your last death is marked on the map (a black disc with a white cross, \"DIED HERE\") and as an X on the compass, so you can find your way back to your bag."
 }
