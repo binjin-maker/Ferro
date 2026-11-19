@@ -1,6 +1,6 @@
 {
-  "version": "49",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/dd3d60f7bd074032f317daf42e1e74489cac26a5/update/Ferro.ex_",
-  "sha256": "f361ce371423ad7bec1f67642dd0efd0c37b3eb6218e87be78e170c30ecf0935",
-  "notes": "BUILD 49\n- Fixed the crash when buying from a survivor trader."
+  "version": "50",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9b7feb2b6427eec4d44593bf95a7327e5b2aea87/update/Ferro.ex_",
+  "sha256": "7abf0a78f3c89e33fca9332e936d5f48a37ea0e8cee8d99754b4c6c20858a332",
+  "notes": "BUILD 50\n- Armour rebalanced so tiers mean something. Protection no longer simply adds up to the cap: a mixed set of light gear (helmet, road sign jacket, pants, gloves) now gives about 60% bullet protection instead of 85%. A full metal set (facemask, chest plate and the rest) still reaches 85%, and the full heavy plate set reaches 90%. Burlap is around 15%."
 }
