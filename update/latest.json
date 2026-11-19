@@ -1,6 +1,6 @@
 {
-  "version": "59",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/241d9b6ae071c9c3a49321de64df2a145317274e/update/Ferro.ex_",
-  "sha256": "9e4be4c277ca6cb25d16273d58545b3c1d22480c64442f70f60b58aac980e145",
-  "notes": "BUILD 59\n- Fishing Port: a boardwalk on piles at the shore, marked on the map. A walk in from the land, a deck with a boat shed and two survivor traders, and a pier running out to a low jetty.\n- Dinghy: buy one at the Boat Shed for 125 scrap and it is waiting at the end of the jetty. E to get in, W / S ahead and astern, A / D to steer, the mouse looks around, E to get out. Six slots of storage under the bow. It needs no fuel and stops when it runs onto the shore.\n- The Boat Shed also trades: low grade fuel, rope, tarp and cooked meat for scrap, and buys raw meat and animal fat.\n- /boat (dev mode) drops a dinghy where you are looking.\n- The port is part of the island itself, so it is there in your existing save too."
+  "version": "60",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/0c87f963f589fe36d83d126f849ee36c96035386/update/Ferro.ex_",
+  "sha256": "087b53cbb9c7540ed03c7f98c77191c20a65c1827006bda63e36ab12bb89d76d",
+  "notes": "BUILD 60\n- The island is about twice the size (3072 m across, was 2048 m). OLD SAVES DO NOT LOAD on the new island: start a new game. Loading takes longer than before.\n- Two new settings for speed, under OPTIONS: RENDER SCALE draws the world at a lower resolution and stretches it to the window (the menus and HUD stay sharp), and SHADOWS can be switched off. On a screen bigger than 1080p the render scale starts at 75%.\n- Weapons work inside the Outpost. Shooting is fine; hitting a scientist, a trader, a turret or anything of theirs that breaks (barrels, crates, pumps) is what locks the turrets on to you."
 }
