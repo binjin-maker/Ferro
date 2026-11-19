@@ -1,6 +1,6 @@
 {
-  "version": "44",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/32e917cf5fd5861ea641234ace2b58b84c2e7d91/update/Ferro.ex_",
-  "sha256": "fd45c034e6a110d54c9777d8f7130b7cc9972e566470a43faa4990a9d12656a9",
-  "notes": "BUILD 44\n- Rocks and boulders: collision is sized from each rock's real shape, so you can no longer walk into the big ones.\n- Hold R now also offers UNLOAD: it empties the gun and puts the rounds back in your pack."
+  "version": "45",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d4c7e66a6d6d51992ad79a587b6844cf69ba2b3a/update/Ferro.ex_",
+  "sha256": "860a703cbd03461758fbb8008f556c945cac16127a2f5a70e9b73e7abdd598b0",
+  "notes": "BUILD 45\n- Closed the money loop at the Outpost: buying wood, stone and metal fragments now costs more than you get for selling them (wood 60 / 40, stone 75 / 50, fragments 45 / 30 per lot)."
 }
