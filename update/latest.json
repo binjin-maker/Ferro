@@ -1,6 +1,6 @@
 {
-  "version": "48",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/44d623a91fd460ca2e4b728393da00ba6bf132b1/update/Ferro.ex_",
-  "sha256": "e077c348f0ccf0ec0041f1d65c6a46090d8a50ad09398cb429f399e958af7870",
-  "notes": "BUILD 48\n- Leather can be crafted: 2 cloth + 1 low grade fuel makes 5, at a level 1 workbench, once researched for 50 scrap.\n- Because leather is now cheap to make, traders pay less for it (10 scrap per 100 at the Scrap Exchange, 4 per 40 from survivors) so it cannot be turned into free scrap."
+  "version": "49",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/dd3d60f7bd074032f317daf42e1e74489cac26a5/update/Ferro.ex_",
+  "sha256": "f361ce371423ad7bec1f67642dd0efd0c37b3eb6218e87be78e170c30ecf0935",
+  "notes": "BUILD 49\n- Fixed the crash when buying from a survivor trader."
 }
