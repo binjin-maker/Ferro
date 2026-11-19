@@ -1,6 +1,6 @@
 {
-  "version": "43",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/54967398d44f73ae53ca6de1ade6ad0df0fe89b8/update/Ferro.ex_",
-  "sha256": "1bd373788498ba2b9e1633f9d205a9dc7babf1bc8ec4a1cb354774e6f7675b35",
-  "notes": "BUILD 43\n- Flashlight: an angle-head lamp, on whenever it is in your hand, with a beam that lands where you look. Level 1 bench, 40 metal fragments and 5 cloth.\n- Headlamp: goes in the eyes slot, N switches it on, hands stay free. About half an hour of battery; recharge at a level 2 workbench."
+  "version": "44",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/32e917cf5fd5861ea641234ace2b58b84c2e7d91/update/Ferro.ex_",
+  "sha256": "fd45c034e6a110d54c9777d8f7130b7cc9972e566470a43faa4990a9d12656a9",
+  "notes": "BUILD 44\n- Rocks and boulders: collision is sized from each rock's real shape, so you can no longer walk into the big ones.\n- Hold R now also offers UNLOAD: it empties the gun and puts the rounds back in your pack."
 }
