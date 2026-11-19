@@ -1,6 +1,6 @@
 {
-  "version": "39",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/8ffb14d0f491ce4d141f1e76460c63f0cac919b7/update/Ferro.ex_",
-  "sha256": "56f697facd6698d5709414bfc3333c145f7d72ea4765ab7304e740bf1891bb50",
-  "notes": "BUILD 39\n- /mini (dev mode) spawns a fuelled minicopter where your crosshair is."
+  "version": "40",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/b3967eb35137f95225a4060facb9871697c6842a/update/Ferro.ex_",
+  "sha256": "5149227dca3e5fb55978ab76bd54fdbd1ee7254909bec747e0573dc216826150",
+  "notes": "BUILD 40\n- /loadout (dev mode) remembers everything you are carrying and wearing and gives it back every time you respawn. It is kept between sessions. /loadoutclear goes back to a rock and a torch.\n- /kill works without dev mode and the death screen says Suicide."
 }
