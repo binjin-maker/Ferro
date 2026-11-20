@@ -1,6 +1,6 @@
 {
-  "version": "66",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/46752d22408d5d766aab352b1541352c745e6d1d/update/Ferro.ex_",
-  "sha256": "0d662234110531c7e992b04144b018343ef738925c4892db64d5405482bac0c1",
-  "notes": "BUILD 66\n- The steering wheel in the car turns with your steering."
+  "version": "67",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f2a309e7dd3df193980cb2f5c785b578fdda1a96/update/Ferro.ex_",
+  "sha256": "c562568955d1685d773dd1b87172a7985d601ba320f781afb71013264218f0af",
+  "notes": "BUILD 67\n- Cars from before the engine change are put right when the save loads: parts that still exist move to their new slots, and the old carburetor and valves become an air filter and gaskets.\n- The line saying what the engine is missing sits under the slots instead of running off the edge of the screen.\n- (Build 66: the steering wheel turns with your steering.)"
 }
