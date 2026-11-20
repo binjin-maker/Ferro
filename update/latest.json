@@ -1,6 +1,6 @@
 {
-  "version": "70",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/507367b667892f4bc3ab85ae266caa419a1497a5/update/Ferro.ex_",
-  "sha256": "4dcad4a31fbc5e92dc1cd7df1b9e4faf3d19f6ca5c2f37309784e05d8cbbd913",
-  "notes": "BUILD 70\n- Garage Frame: a new piece on the building wheel, open from wall to wall with just a beam over the top. Wide and tall enough for the truck.\n- Garage Door: 300 metal fragments and 2 gears at a level 2 workbench. Place it in a garage frame; E rolls it up under the beam and back down."
+  "version": "71",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/8ad3544bd097fd7c0bc6215dafece44df8b194d4/update/Ferro.ex_",
+  "sha256": "10a7748ba9468b9b3672f63b92fb232adce4da7bb3d3974cae1e029551a09e12",
+  "notes": "BUILD 71\n- All three cars remodelled: round tube cages, shaped bonnets and doors, mudguards, grilles, round lamps, proper seats, knobbly tyres on dished rims, and a coil spring over every wheel that squashes with the suspension.\n- Cars are solid from nose to tail now: they stop against trees, walls, barrels, boxes, other vehicles and anything alive (which is still hurt, and thrown aside). A parked car you run into is knocked on.\n- Wheels ride up over rocks, ore and stumps instead of ignoring them.\n- The cargo on the truck and buggy opens properly, and the prompt says CARGO.\n- Wrench (100 metal fragments, level 1 bench): hit a car with it to repair the body, 8 scrap and 30 metal fragments a swing.\n- The pick-up and truck pull away slower (the truck slowest); the buggy is harder to roll and takes far less damage from knocks.\n- Helicopters are a good deal faster than any car again.\n- Higher up is colder.\n- Dying in a wrecked car says Car crash. /car puts the car on whatever you are pointing at instead of under it.\n- With the gun out in a car, driving no longer drops it into the running pose."
 }
