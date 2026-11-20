@@ -1,6 +1,6 @@
 {
-  "version": "82",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f612ead5f38c7e7cbdf24354f00b65ac7ee17b2f/update/Ferro.ex_",
-  "sha256": "c5a41806615873e3bd4666d6eb68fff4e951cc2fe349e52c16b1a1d4c85ca275",
-  "notes": "BUILD 82\n- Driver's arms again: the upper arm now meets the real end of the forearm, in bare skin when your arms are bare and in your sleeve when they are not. No more loose tube beside the arm.\n- Get out without switching off and the car sits there ticking over, burning a little fuel, until it runs dry or you turn the key. Helicopters still wind down when you leave them.\n- The TAKE ALL button is gone from engine and cargo panels: it covered the engine read-out."
+  "version": "83",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f6682ae810a461358e31c95cf1abc0786ec53e4d/update/Ferro.ex_",
+  "sha256": "9785677057c27ce8abae6426956e0e9aedfa7da28f2df9f86c401d6442bf0d45",
+  "notes": "BUILD 83\n- Cars no longer get thrown onto their roofs by a slow or stuttering frame: the suspension is worked out in finer steps and a long frame is capped. Unclaimed cars already lying on their sides are stood back up when the game loads.\n- Dinghy: the bow comes to a point instead of opening like a V, it rides higher so the sea is not in the boat with you, and its floor runs into the bow.\n- The dinghy has an outboard to look after: pistons, spark plugs and a carburetor in its hatch, fuel in the tank, R to start it. New ones come fitted and fuelled; yours gets a part-worn engine and a little fuel.\n- Wakes: foam peels off the bow and lies behind, spray at speed, and the propeller churns the water under the stern. Cars driving through water throw a wake as well.\n- Your head only turns so far in a boat too.\n- Low quality engine parts turn up in ordinary crates fairly often now."
 }
