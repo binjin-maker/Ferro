@@ -1,6 +1,6 @@
 {
-  "version": "75",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/2dc53ad53c2fe4766bbd0610803970d9ffa511c8/update/Ferro.ex_",
-  "sha256": "8d87bf41c7a50bad0e5309e093e2717cb19a40f7d777a566a2d29f87085ca99c",
-  "notes": "BUILD 75\n- The hands on the wheel are the same hands that hold your gun: proper fingers closed round the rim (or the bike's grips), your own sleeves and gloves, an arm behind each.\n- The driver sits on the seat instead of in it, and looking down no longer shows the inside of your own arms.\n- Tyres are solid from every side.\n- Engine quality matters much more to how hard a car pulls (low quality about a third weaker than regular, high quality about 40% stronger) and a little to top speed: about 10 km/h between an all-low and an all-high engine.\n- Helicopter hatches: the minicopter's is just ENGINE. The transport and attack helicopters open on the engine, with a button to switch to the cargo."
+  "version": "76",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/44be629bc0bcf8307a09a7d2a24ee3cc522758b4/update/Ferro.ex_",
+  "sha256": "85c7ef011091a5ee101c31342278020ea26d18e1dec6a08743749427fbc3bc7d",
+  "notes": "BUILD 76\n- With the gun out in a car your head is held to the same limits as with your hands on the wheel: no more looking right round behind you."
 }
