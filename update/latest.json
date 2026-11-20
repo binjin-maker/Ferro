@@ -1,6 +1,6 @@
 {
-  "version": "73",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/da044127d4d18e42d81292724665bdb6de3ae81d/update/Ferro.ex_",
-  "sha256": "841d157857c752cf9530ec526946ff162aa95b5c315836527161854f87be0792",
-  "notes": "BUILD 73\n- You sit in cars now: body in the seat, knees up, both hands on the wheel (or the bike's bars) and going round with it. With the gun out the hands leave the wheel.\n- Your head only turns a bit past each shoulder in a car, and the view tips and rolls with the car, a little less than the car does.\n- Headlamps fixed: N really switches them now, on every car, the bike and the minicopter.\n- Helicopters have the same seven-part engine as cars, in the hatch after the fuel. New ones come with a regular engine fitted; ones you already own get a part-worn low quality one. Parts wear as you fly, and it will not fly with one missing.\n- Explosions redone: a short white flash, a fireball that rolls up and burns out, black smoke that hangs, sparks, clods and a skirt of dust along the ground. They light up what is around them.\n- Armour plate no longer covers the windscreen on the pick-up and buggy."
+  "version": "74",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/66b234792636f52c3239d328aff9c0b9d00514be/update/Ferro.ex_",
+  "sha256": "89c82cbe323cae58fa2ac57dcd0ee8d9f7e1840fe73f2e26d41f1d1b93fa3c75",
+  "notes": "BUILD 74\n- Engines have to be started. R in the seat turns the key: the starter cranks for a second and the engine catches, or coughs and dies if its parts are badly worn (try again). R again switches it off. Works the same in every car, the bike and all three helicopters, and it tells you why if it will not start.\n- Shooting from a car or the minicopter is steady now: being driven no longer counts as running and jumping."
 }
