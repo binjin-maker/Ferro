@@ -1,6 +1,6 @@
 {
-  "version": "68",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/3312b5a95c8b471d9753a5a1b95452cadd9127d6/update/Ferro.ex_",
-  "sha256": "fb028823bbe598781aa2d749c3a7817f8b6d23969d8e03f167095eabbc142ec1",
-  "notes": "BUILD 68\n- New builds show up straight away. The game was asking a GitHub server that keeps serving the old version list for up to five minutes after a push; it now asks GitHub's API first, which answers from the repository itself. (This starts working once you are on this build.)"
+  "version": "69",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e9eb00744b53c6ee63f0e2d57af3ee48631b4981/update/Ferro.ex_",
+  "sha256": "17d648bbbc575deec94a8e479a1129c356f00679897336418ec25adc7816b9fb",
+  "notes": "BUILD 69\n- The engine takes seven parts now: crankshaft, pistons, spark plugs, air filter, gaskets, carburetor and valves. Carburetors and valves come in the same three qualities as the rest, wear the same way, and are found, sold and crafted the same way.\n- A car you already have keeps its five parts where they are and needs a carburetor and valves added. Anything that was sitting in the two bed slots that became engine slots is moved further back in the bed.\n- New cars have eight bed slots; older ones keep six.\n- Three cars now: the pick-up, a Buggy (light, fastest, engine out the back, small rack on the nose) and a Truck (slow, 1000 hp, roofed cab, big flatbed with 16 slots). Each rides and handles differently. /car buggy and /car truck spawn them in dev.\n- Cars found on the roads come with odds and ends in the back, but never a whole engine and never more than a dribble of fuel.\n- Engine parts are filed under Components."
 }
