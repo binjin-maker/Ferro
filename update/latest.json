@@ -1,6 +1,6 @@
 {
-  "version": "77",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/4b6f8dd625ea4c8fac97297684292411ad725c4b/update/Ferro.ex_",
-  "sha256": "ecd8b0fb17c5404ee479ab12a08dfdab007f7ccbf87cdea8f2f5497e6c7014c4",
-  "notes": "BUILD 77\n- How long an engine takes to start depends on its parts: fresh high quality ones fire in about half a second, worn low quality ones make the starter grind for two."
+  "version": "78",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/dfbf87239b866027cb69685048b3d1e6ec3883b7/update/Ferro.ex_",
+  "sha256": "7de34f8b4fd41d641d88a7ba08f91c7525ccafcc02047e1df5a1df1727582f2b",
+  "notes": "BUILD 78\n- Scientists rarely drop their sidearm (a revolver or semi-automatic pistol, about 1 in 16). Heavy scientists rarely drop a custom SMG or MP5 (about 1 in 12). Dropped guns come part-worn."
 }
