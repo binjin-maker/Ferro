@@ -1,6 +1,6 @@
 {
-  "version": "74",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/66b234792636f52c3239d328aff9c0b9d00514be/update/Ferro.ex_",
-  "sha256": "89c82cbe323cae58fa2ac57dcd0ee8d9f7e1840fe73f2e26d41f1d1b93fa3c75",
-  "notes": "BUILD 74\n- Engines have to be started. R in the seat turns the key: the starter cranks for a second and the engine catches, or coughs and dies if its parts are badly worn (try again). R again switches it off. Works the same in every car, the bike and all three helicopters, and it tells you why if it will not start.\n- Shooting from a car or the minicopter is steady now: being driven no longer counts as running and jumping."
+  "version": "75",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/2dc53ad53c2fe4766bbd0610803970d9ffa511c8/update/Ferro.ex_",
+  "sha256": "8d87bf41c7a50bad0e5309e093e2717cb19a40f7d777a566a2d29f87085ca99c",
+  "notes": "BUILD 75\n- The hands on the wheel are the same hands that hold your gun: proper fingers closed round the rim (or the bike's grips), your own sleeves and gloves, an arm behind each.\n- The driver sits on the seat instead of in it, and looking down no longer shows the inside of your own arms.\n- Tyres are solid from every side.\n- Engine quality matters much more to how hard a car pulls (low quality about a third weaker than regular, high quality about 40% stronger) and a little to top speed: about 10 km/h between an all-low and an all-high engine.\n- Helicopter hatches: the minicopter's is just ENGINE. The transport and attack helicopters open on the engine, with a button to switch to the cargo."
 }
