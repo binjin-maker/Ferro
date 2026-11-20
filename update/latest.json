@@ -1,6 +1,6 @@
 {
-  "version": "81",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/8a577c25f69c08addbfe84dd340bf451286d4717/update/Ferro.ex_",
-  "sha256": "a703d037a0e0b853a3db27c61bc0a834ccf28a04867e5dc7fe0306bf2c5936c1",
-  "notes": "BUILD 81\n- Landing a car on its wheels no longer hurts it unless it is slammed down very hard (about 9 m/s onto the floor pan, and half the damage it was). Landing on its side or roof costs what it did."
+  "version": "82",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f612ead5f38c7e7cbdf24354f00b65ac7ee17b2f/update/Ferro.ex_",
+  "sha256": "c5a41806615873e3bd4666d6eb68fff4e951cc2fe349e52c16b1a1d4c85ca275",
+  "notes": "BUILD 82\n- Driver's arms again: the upper arm now meets the real end of the forearm, in bare skin when your arms are bare and in your sleeve when they are not. No more loose tube beside the arm.\n- Get out without switching off and the car sits there ticking over, burning a little fuel, until it runs dry or you turn the key. Helicopters still wind down when you leave them.\n- The TAKE ALL button is gone from engine and cargo panels: it covered the engine read-out."
 }
