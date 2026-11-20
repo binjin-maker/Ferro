@@ -1,6 +1,6 @@
 {
-  "version": "69",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/e9eb00744b53c6ee63f0e2d57af3ee48631b4981/update/Ferro.ex_",
-  "sha256": "17d648bbbc575deec94a8e479a1129c356f00679897336418ec25adc7816b9fb",
-  "notes": "BUILD 69\n- The engine takes seven parts now: crankshaft, pistons, spark plugs, air filter, gaskets, carburetor and valves. Carburetors and valves come in the same three qualities as the rest, wear the same way, and are found, sold and crafted the same way.\n- A car you already have keeps its five parts where they are and needs a carburetor and valves added. Anything that was sitting in the two bed slots that became engine slots is moved further back in the bed.\n- New cars have eight bed slots; older ones keep six.\n- Three cars now: the pick-up, a Buggy (light, fastest, engine out the back, small rack on the nose) and a Truck (slow, 1000 hp, roofed cab, big flatbed with 16 slots). Each rides and handles differently. /car buggy and /car truck spawn them in dev.\n- Cars found on the roads come with odds and ends in the back, but never a whole engine and never more than a dribble of fuel.\n- Engine parts are filed under Components."
+  "version": "70",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/507367b667892f4bc3ab85ae266caa419a1497a5/update/Ferro.ex_",
+  "sha256": "4dcad4a31fbc5e92dc1cd7df1b9e4faf3d19f6ca5c2f37309784e05d8cbbd913",
+  "notes": "BUILD 70\n- Garage Frame: a new piece on the building wheel, open from wall to wall with just a beam over the top. Wide and tall enough for the truck.\n- Garage Door: 300 metal fragments and 2 gears at a level 2 workbench. Place it in a garage frame; E rolls it up under the beam and back down."
 }
