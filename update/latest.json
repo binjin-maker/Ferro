@@ -1,6 +1,6 @@
 {
-  "version": "62",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/c952e5dbca29b6cc5ca9a18b872e9ffb9dd23419/update/Ferro.ex_",
-  "sha256": "c79d3e2a38968d613ededd1abc85a530f224df505b2ba16f29592cc28e36ca1a",
-  "notes": "BUILD 62\n- Cars. Open pick-ups are left along the roads (nine on the island; they are added to an existing save too). Look at one and press E to get in: W / S drive and reverse, A / D steer, the mouse looks around, E to get out.\n- A car needs five engine parts under the hood (carburetor, crankshaft, pistons, spark plugs, valves) and low grade fuel. Open the hood at the front: the first slot is fuel, the next five are the parts, each in its own slot, and the rest is cargo. Road cars come with some of the parts and sometimes a little fuel. The car tells you what is missing when you get in.\n- Engine parts turn up in barrels, can be bought at the Outpost's Resource Exchange for 40 scrap each, or crafted at a level 2 bench once researched (75 metal fragments + 2 high quality metal).\n- Real suspension: each wheel has its own spring and rides the ground under it, so the car pitches and rolls with the terrain, leans in corners, and bottoms out on bumps. Nothing holds it upright: take a bank too fast or side-on and it goes over. On its side or roof, get out, look at it and press H to heave it back onto its wheels.\n- Crashes damage the car and you; deep water kills the engine.\n- Hits on flesh sound like it: a dull wet thump instead of a click. Headshots get their own sound, a crack and a tearing rip.\n- /car (dev mode) drops a complete, fuelled car where you are looking."
+  "version": "63",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/d5223d5cda5872d08ae929d1ee75e2d1360ebdb1/update/Ferro.ex_",
+  "sha256": "812ec2c909230b42dfe0ba1384da364923013f8bdde856891cc5b09343e304c7",
+  "notes": "BUILD 63\n- A car that has gone over stays over: the H \"heave it back\" is gone. Roll one and it is a wreck where it lies (you can still take what is under the hood)."
 }
