@@ -1,6 +1,6 @@
 {
-  "version": "80",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/2d77e2cd3cc9333477b7470d7bea890be4b12c49/update/Ferro.ex_",
-  "sha256": "7a07565a41d3a812918f56d93a7816d3aa201c8fe166e1cb15aae069fa499508",
-  "notes": "BUILD 80\n- The driver's arms are proper arms: shoulder, elbow, wrist, in your own sleeves, and the hands lie on the outside of the rim and close over it.\n- Parking brake on P. A car is left with it on. Let it off and the car rolls wherever the ground takes it, with or without you in it. It has to be off to drive.\n- Running out of fuel kills the engine, and says so."
+  "version": "81",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/8a577c25f69c08addbfe84dd340bf451286d4717/update/Ferro.ex_",
+  "sha256": "a703d037a0e0b853a3db27c61bc0a834ccf28a04867e5dc7fe0306bf2c5936c1",
+  "notes": "BUILD 81\n- Landing a car on its wheels no longer hurts it unless it is slammed down very hard (about 9 m/s onto the floor pan, and half the damage it was). Landing on its side or roof costs what it did."
 }
