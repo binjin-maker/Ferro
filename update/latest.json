@@ -1,6 +1,6 @@
 {
-  "version": "83",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f6682ae810a461358e31c95cf1abc0786ec53e4d/update/Ferro.ex_",
-  "sha256": "9785677057c27ce8abae6426956e0e9aedfa7da28f2df9f86c401d6442bf0d45",
-  "notes": "BUILD 83\n- Cars no longer get thrown onto their roofs by a slow or stuttering frame: the suspension is worked out in finer steps and a long frame is capped. Unclaimed cars already lying on their sides are stood back up when the game loads.\n- Dinghy: the bow comes to a point instead of opening like a V, it rides higher so the sea is not in the boat with you, and its floor runs into the bow.\n- The dinghy has an outboard to look after: pistons, spark plugs and a carburetor in its hatch, fuel in the tank, R to start it. New ones come fitted and fuelled; yours gets a part-worn engine and a little fuel.\n- Wakes: foam peels off the bow and lies behind, spray at speed, and the propeller churns the water under the stern. Cars driving through water throw a wake as well.\n- Your head only turns so far in a boat too.\n- Low quality engine parts turn up in ordinary crates fairly often now."
+  "version": "84",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a686f971ede672f350f83c306d867d84e5969242/update/Ferro.ex_",
+  "sha256": "60ee94fce2812f3cf49704fc3a512f01f77eca38a88cacbde1374de914e1a51d",
+  "notes": "BUILD 84\n- Two more boats at the Boat Shed, alongside the dinghy (125 scrap):\n- Military Dinghy, 350 scrap: a black inflatable with a hard deck to stand on. Tougher (400) and quicker than the wooden one.\n- Speedboat, 500 scrap: the fastest thing on the water, with a screen and two seats, and the least health (180). Thirsty.\n- All three use the same small outboard engine (pistons, spark plugs, carburetor), start with R, and come fuelled.\n- /boat military and /boat speed in dev."
 }
