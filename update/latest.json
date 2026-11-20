@@ -1,6 +1,6 @@
 {
-  "version": "78",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/dfbf87239b866027cb69685048b3d1e6ec3883b7/update/Ferro.ex_",
-  "sha256": "7de34f8b4fd41d641d88a7ba08f91c7525ccafcc02047e1df5a1df1727582f2b",
-  "notes": "BUILD 78\n- Scientists rarely drop their sidearm (a revolver or semi-automatic pistol, about 1 in 16). Heavy scientists rarely drop a custom SMG or MP5 (about 1 in 12). Dropped guns come part-worn."
+  "version": "79",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a4d09cb17a4ce5716f3c9fc9d3ccaac2fdc5c8d6/update/Ferro.ex_",
+  "sha256": "e07f6f153f267ff58eba9c45ffeb3a8962556dfeb8d5b995a701db7a66dd3521",
+  "notes": "BUILD 79\n- Putting the gun away in a car or minicopter mid-shot no longer leaves the muzzle flash hanging in the air."
 }
