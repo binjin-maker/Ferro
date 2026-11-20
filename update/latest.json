@@ -1,6 +1,6 @@
 {
-  "version": "65",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f01ac07893c7492e276e8db6a76ea54d1a11d819/update/Ferro.ex_",
-  "sha256": "42f9632709a104c10a04dd0405a845cda2a115d081ef34c1ba9f8ecbf4c14812",
-  "notes": "BUILD 65\n- F takes your gun out while you are driving a car, the same as in the minicopter. With it out you can still use W and S (throttle, brake, reverse) but cannot steer; F again puts your hands back on the wheel."
+  "version": "66",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/46752d22408d5d766aab352b1541352c745e6d1d/update/Ferro.ex_",
+  "sha256": "0d662234110531c7e992b04144b018343ef738925c4892db64d5405482bac0c1",
+  "notes": "BUILD 66\n- The steering wheel in the car turns with your steering."
 }
