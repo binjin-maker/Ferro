@@ -1,6 +1,6 @@
 {
-  "version": "60",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/0c87f963f589fe36d83d126f849ee36c96035386/update/Ferro.ex_",
-  "sha256": "087b53cbb9c7540ed03c7f98c77191c20a65c1827006bda63e36ab12bb89d76d",
-  "notes": "BUILD 60\n- The island is about twice the size (3072 m across, was 2048 m). OLD SAVES DO NOT LOAD on the new island: start a new game. Loading takes longer than before.\n- Two new settings for speed, under OPTIONS: RENDER SCALE draws the world at a lower resolution and stretches it to the window (the menus and HUD stay sharp), and SHADOWS can be switched off. On a screen bigger than 1080p the render scale starts at 75%.\n- Weapons work inside the Outpost. Shooting is fine; hitting a scientist, a trader, a turret or anything of theirs that breaks (barrels, crates, pumps) is what locks the turrets on to you."
+  "version": "61",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/9b5aba25f13eea9401b162b92dbb58848fc186a1/update/Ferro.ex_",
+  "sha256": "7c87de4a09b9e1604f1c1264fe4f3ec6245bd7ef4b4df07c2dc91dec8da1ff21",
+  "notes": "BUILD 61\n- Shadows are much cheaper. Every lit pixel now reads the shadow map 4 times instead of 9. The near shadow map is redrawn every other frame and the wide one every sixth, never both on the same frame, and small far-off things no longer go into the wide map. Shadow drawing work per frame is roughly half what it was."
 }
