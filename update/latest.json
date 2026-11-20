@@ -1,6 +1,6 @@
 {
-  "version": "79",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a4d09cb17a4ce5716f3c9fc9d3ccaac2fdc5c8d6/update/Ferro.ex_",
-  "sha256": "e07f6f153f267ff58eba9c45ffeb3a8962556dfeb8d5b995a701db7a66dd3521",
-  "notes": "BUILD 79\n- Putting the gun away in a car or minicopter mid-shot no longer leaves the muzzle flash hanging in the air."
+  "version": "80",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/2d77e2cd3cc9333477b7470d7bea890be4b12c49/update/Ferro.ex_",
+  "sha256": "7a07565a41d3a812918f56d93a7816d3aa201c8fe166e1cb15aae069fa499508",
+  "notes": "BUILD 80\n- The driver's arms are proper arms: shoulder, elbow, wrist, in your own sleeves, and the hands lie on the outside of the rim and close over it.\n- Parking brake on P. A car is left with it on. Let it off and the car rolls wherever the ground takes it, with or without you in it. It has to be off to drive.\n- Running out of fuel kills the engine, and says so."
 }
