@@ -1,6 +1,6 @@
 {
-  "version": "84",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/a686f971ede672f350f83c306d867d84e5969242/update/Ferro.ex_",
-  "sha256": "60ee94fce2812f3cf49704fc3a512f01f77eca38a88cacbde1374de914e1a51d",
-  "notes": "BUILD 84\n- Two more boats at the Boat Shed, alongside the dinghy (125 scrap):\n- Military Dinghy, 350 scrap: a black inflatable with a hard deck to stand on. Tougher (400) and quicker than the wooden one.\n- Speedboat, 500 scrap: the fastest thing on the water, with a screen and two seats, and the least health (180). Thirsty.\n- All three use the same small outboard engine (pistons, spark plugs, carburetor), start with R, and come fuelled.\n- /boat military and /boat speed in dev."
+  "version": "85",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/c9bac699d3e8654de6f8521cf9cd1f310563bfb9/update/Ferro.ex_",
+  "sha256": "c09bcd19186c0ca651619f7e4135b5686e7a605fda38061418c6d0ad12bc66cc",
+  "notes": "BUILD 85\n- Jobs at the Outpost. A job board stands in the yard near the shops: E on it shows three jobs, one of each kind, changed every quarter of an hour. One job at a time, paid in scrap.\n- Supply run: bring a number of some item back to the board.\n- Raid: kill so many scientists at a named monument, then come back to the board for the money.\n- Delivery: you are handed a sealed package to carry to another monument, and paid the moment you arrive with it.\n- The job in hand shows at the top left and as a J on the compass. A job is not kept if you close the game.\n- The Outpost has a motor pool inside the side gate: three roofed bays against the east wall, marked places in front, two fuel pumps, and a Garage machine selling low grade fuel, a wrench, a jack and regular engine parts.\n- Outboards start now (R), their hatch is at the stern by the motor, and an engine panel only shows the slots that engine uses: three on boats and the bike.\n- The truck's front wheels no longer cut into the cab.\n- /clear vehicles (dev) removes every vehicle on the map."
 }
