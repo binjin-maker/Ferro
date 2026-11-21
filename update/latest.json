@@ -1,6 +1,6 @@
 {
-  "version": "92",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/353c75d72f4ad9f53d447b74f1d8f96c9b8cb07a/update/Ferro.ex_",
-  "sha256": "b918a6b0fd9e44e81cf6c6c07e3b7f626b0d01aa9c381e0939c97b7e32226b9c",
-  "notes": "BUILD 92\n- Assembled vehicles cost the bare price plus the same 355 scrap whatever the vehicle (150 on the dirt bike, which takes three parts). That is a little less than buying the seven regular parts at the garage (420) and filling the tank yourself. Car 615, buggy 575, truck 755, armored car 1255, Big Rig 1855, dirt bike 270."
+  "version": "93",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/73374de674003a246d4a4b170781550899793a22/update/Ferro.ex_",
+  "sha256": "0388776fa61176cd38d63277e5d1d20f93ebed94c0981bd0136bf7991be1b8b2",
+  "notes": "BUILD 93\n- Gas pumps: while one fills, its hose runs from the pump to the vehicle's filler, and a read-out by the pump shows the fuel put in, the scrap it has cost, and how full the tank is.\n- Pumped fuel burns 5% longer than fuel from a can.\n- Big Rig: the windscreen is gone (it showed as a dark slab), and the cab comes right down to the frame instead of sitting up in the air.\n- The trailer's first slot no longer says FUEL: it is just cargo.\n- The empty-tank hint mentions gas pumps."
 }
