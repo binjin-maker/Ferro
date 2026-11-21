@@ -1,6 +1,6 @@
 {
-  "version": "100",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/28998dae83e1cd3df0c06fdfbaea80cbe72328ad/update/Ferro.ex_",
-  "sha256": "26a406f699d9e1357baa885b8d23f75cd4acc86434fca71ab5a9d3c00b87a8e0",
-  "notes": "BUILD 100\n- /god now works like a safety net: you still get shot, bleed, freeze and see all the red hit effects, you just never die (health stops at 1). /kill still works."
+  "version": "101",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/3943b5963a254778fe9ad86c65d60ecf806521b6/update/Ferro.ex_",
+  "sha256": "79c4ac2e6fa9c46c5f371af5d9a935670c860dc832eb5fc5e736c028235ec44d",
+  "notes": "BUILD 101\n- /spawn dummy: a Test Dummy at your crosshair. Stands still, takes hits (hit markers, blood), never dies.\n- /spawn dummy moving: a Moving Dummy. Moves, strafes and aims at you like a scientist, never shoots, never dies."
 }
