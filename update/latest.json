@@ -1,6 +1,6 @@
 {
-  "version": "87",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/ba27b110e0a80222409f44a0225b92ceedd1f548/update/Ferro.ex_",
-  "sha256": "4854f7ceac914664197ab1ae272f520aa5ef171540b6eba37ac357bc443dca1c",
-  "notes": "BUILD 87\n- Map names no longer overlap: each goes above its mark, or below, right or left of it, wherever there is room. Each sits on a pale card so names out at sea can be read too."
+  "version": "88",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/c3d505828557bb7ccf8e59223db97fbe801f1ba5/update/Ferro.ex_",
+  "sha256": "97e0ead60354e5960a3724c129b2bffba2e81136e78805fa50b93cf1566d7d30",
+  "notes": "BUILD 88\n- The truck's wing mirrors face back down its sides, with glass in them, instead of sticking out edge-on."
 }
