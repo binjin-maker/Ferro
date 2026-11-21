@@ -1,6 +1,6 @@
 {
-  "version": "86",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/4c0bb6257f3e2cf4374f1ea5083911b2797e0b92/update/Ferro.ex_",
-  "sha256": "f7a283b0b3857bdfdef07cc550cb20823738bcd23e8eda4c57780ef61984784d",
-  "notes": "BUILD 86\n- Mechanic's Garage, on land: a shed with two bays, a parts machine (engine parts, fuel, wrench, jack) and a Vehicle Dealer. Every vehicle comes bare (no engine, empty tank) or assembled (regular engine, fuel) for more. What you buy waits on the marked place in the yard and is yours from the start.\n- Arms Dealer, on land: a concrete box with a barred hatch. Ammo, syringes, satchels, military kit, and the armoury of advanced guns and heavy armour. The black market is gone from the Outpost.\n- Floating Market, out at sea: cheaper resources to buy, and it pays less for what you sell, so there is nothing in running goods between it and the Outpost.\n- Storage Depots, three on land and two at sea. They are only there to deliver to, and only show on the map while a job sends you to one.\n- Haulage jobs: up to 12,000 of a material, crated and sealed as freight, to a depot or trade post in the far half of the map, out at sea as often as not. You are only given the load if you can carry all of it. Further away and more slots filled pay more (well over 1,000 scrap for a full load across the map).\n- The freight must stay on you or in a vehicle of yours. Put any of it in a box, drop it, sell it, die with it, or lose the vehicle carrying it and the whole load is gone and the job fails. Drop the job and the freight goes back.\n- Deliver on foot or drive up with it in your truck: either counts.\n- The job's destination is marked on the map and the compass."
+  "version": "87",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/ba27b110e0a80222409f44a0225b92ceedd1f548/update/Ferro.ex_",
+  "sha256": "4854f7ceac914664197ab1ae272f520aa5ef171540b6eba37ac357bc443dca1c",
+  "notes": "BUILD 87\n- Map names no longer overlap: each goes above its mark, or below, right or left of it, wherever there is room. Each sits on a pale card so names out at sea can be read too."
 }
