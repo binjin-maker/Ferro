@@ -1,6 +1,6 @@
 {
-  "version": "99",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/07bc1c2f6b60d229c52d7573195dd9f8c2923e76/update/Ferro.ex_",
-  "sha256": "9d12532c9eee6af92f3d1bf784a05c08649670ef839c6cb3e0594e22aba1ab2f",
-  "notes": "BUILD 99  -  less \"generated\", more hand-made\n- Text: every message, tooltip, item description and job card rewritten short and plain. No more chatty sentences.\n- Rust and sheet metal: rust now runs down in streaks and patches instead of an even polka-dot pattern.\n- Repeated panels (fences, walls, hulls, painted metal) each get their own patch of texture, so rows of them no longer look copy-pasted.\n- Rocks, bushes, ore nodes and loose sticks gather in natural patches instead of an even sprinkle across the map.\n- Rocks and loot barrels/crates each have slightly different shades.\n- Your footsteps, swings and landings vary in pitch so they never sound like the same clip.\n- Landing from a jump or fall dips the camera a little."
+  "version": "100",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/28998dae83e1cd3df0c06fdfbaea80cbe72328ad/update/Ferro.ex_",
+  "sha256": "26a406f699d9e1357baa885b8d23f75cd4acc86434fca71ab5a9d3c00b87a8e0",
+  "notes": "BUILD 100\n- /god now works like a safety net: you still get shot, bleed, freeze and see all the red hit effects, you just never die (health stops at 1). /kill still works."
 }
