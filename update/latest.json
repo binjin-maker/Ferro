@@ -1,6 +1,6 @@
 {
-  "version": "88",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/c3d505828557bb7ccf8e59223db97fbe801f1ba5/update/Ferro.ex_",
-  "sha256": "97e0ead60354e5960a3724c129b2bffba2e81136e78805fa50b93cf1566d7d30",
-  "notes": "BUILD 88\n- The truck's wing mirrors face back down its sides, with glass in them, instead of sticking out edge-on."
+  "version": "89",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/7f8d46de1e47f0d46f2f0590bff9d12aabaa7270/update/Ferro.ex_",
+  "sha256": "83884b97192d68bf42b06acef24121cd24cd9dfc223cb0a5183fa91f2259c59a",
+  "notes": "BUILD 89\n- Helicopters cost more again: minicopter 900 scrap (was 500), transport 1500 (was 850), attack helicopter 2500 (was 1500)."
 }
