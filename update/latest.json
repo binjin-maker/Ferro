@@ -1,6 +1,6 @@
 {
-  "version": "93",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/73374de674003a246d4a4b170781550899793a22/update/Ferro.ex_",
-  "sha256": "0388776fa61176cd38d63277e5d1d20f93ebed94c0981bd0136bf7991be1b8b2",
-  "notes": "BUILD 93\n- Gas pumps: while one fills, its hose runs from the pump to the vehicle's filler, and a read-out by the pump shows the fuel put in, the scrap it has cost, and how full the tank is.\n- Pumped fuel burns 5% longer than fuel from a can.\n- Big Rig: the windscreen is gone (it showed as a dark slab), and the cab comes right down to the frame instead of sitting up in the air.\n- The trailer's first slot no longer says FUEL: it is just cargo.\n- The empty-tank hint mentions gas pumps."
+  "version": "94",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/ca2e1bd952824b8a5680d2bcee0ab7e4ec426e83/update/Ferro.ex_",
+  "sha256": "44ddc84485addf9635629f0c6cb9dbf394d3de6230883591bbfc68ebbfbe4508",
+  "notes": "BUILD 94\n- Tow Hook (100 metal fragments and 2 rope at a level 1 bench, or 60 scrap at the garage). Hit the car you want towed, then hit the one that will pull it: the tail of the puller has to be within 5 m of either end of the other. A strap shows between them and the towed car trails behind, swinging wide on corners. It is scraped and damaged when dragged into things. With its parking brake on it drags hard on whatever is pulling it. Hit either with the hook again, or get into the towed car, to let go. Helicopters and boats cannot tow or be towed.\n- Boats: they bump off each other and off cars and trailers, take damage from hard knocks and from running up a beach fast, and shove (and hurt) anything alive they hit.\n- Boats have their own outboard sound, and water rushing past the hull that grows with speed.\n- Boat steering eases in and out instead of snapping.\n- The speedboat's driver sits higher, so you can see over the screen.\n- The military dinghy's pontoons are closed at the bow.\n- The mechanic's parts machine sells metal fragments (250 for 45) for patching vehicles up.\n- Ramming things on the dirt bike only reaches as far as the bike does."
 }
