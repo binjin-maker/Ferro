@@ -1,6 +1,6 @@
 {
-  "version": "94",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/ca2e1bd952824b8a5680d2bcee0ab7e4ec426e83/update/Ferro.ex_",
-  "sha256": "44ddc84485addf9635629f0c6cb9dbf394d3de6230883591bbfc68ebbfbe4508",
-  "notes": "BUILD 94\n- Tow Hook (100 metal fragments and 2 rope at a level 1 bench, or 60 scrap at the garage). Hit the car you want towed, then hit the one that will pull it: the tail of the puller has to be within 5 m of either end of the other. A strap shows between them and the towed car trails behind, swinging wide on corners. It is scraped and damaged when dragged into things. With its parking brake on it drags hard on whatever is pulling it. Hit either with the hook again, or get into the towed car, to let go. Helicopters and boats cannot tow or be towed.\n- Boats: they bump off each other and off cars and trailers, take damage from hard knocks and from running up a beach fast, and shove (and hurt) anything alive they hit.\n- Boats have their own outboard sound, and water rushing past the hull that grows with speed.\n- Boat steering eases in and out instead of snapping.\n- The speedboat's driver sits higher, so you can see over the screen.\n- The military dinghy's pontoons are closed at the bow.\n- The mechanic's parts machine sells metal fragments (250 for 45) for patching vehicles up.\n- Ramming things on the dirt bike only reaches as far as the bike does."
+  "version": "95",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/893f4e8b12821773ff84aeb672e3a2eaf0bbb96d/update/Ferro.ex_",
+  "sha256": "61f14f4d853c99a249f9a54b62009c43e5687b733a49615a92f6903963444cd1",
+  "notes": "BUILD 95\n- The Floating Market is busier: a boat seller (dinghy, military dinghy, speedboat, left at a new slip off its east side), a Boat Mechanic selling low and regular quality pistons, spark plugs and carburetors with fuel, a wrench and metal fragments, an awning over the two, fish drying on a line, nets, crates and more barrels.\n- The Fishing Port no longer has a recycler standing in the water where boats are tied up."
 }
