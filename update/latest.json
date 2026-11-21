@@ -1,6 +1,6 @@
 {
-  "version": "91",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/f1a99ede655c8564b55806bc648a2abaf69541a5/update/Ferro.ex_",
-  "sha256": "726a602d352a46fe9b319081fd2efe5cb91fc9caa3312ce66ea74185429ef854",
-  "notes": "BUILD 91\n- Sell your vehicles at the Mechanic's Garage: the Vehicle Dealer lists anything of yours parked within 30 m, with a price. It is at most half what a new one costs, less for a battered body and for a worn or missing engine. The dealer keeps the fuel and the engine parts; everything else that was in it is dropped on the ground beside it. Selling a Big Rig sells its trailer too."
+  "version": "92",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/353c75d72f4ad9f53d447b74f1d8f96c9b8cb07a/update/Ferro.ex_",
+  "sha256": "b918a6b0fd9e44e81cf6c6c07e3b7f626b0d01aa9c381e0939c97b7e32226b9c",
+  "notes": "BUILD 92\n- Assembled vehicles cost the bare price plus the same 355 scrap whatever the vehicle (150 on the dirt bike, which takes three parts). That is a little less than buying the seven regular parts at the garage (420) and filling the tank yourself. Car 615, buggy 575, truck 755, armored car 1255, Big Rig 1855, dirt bike 270."
 }
