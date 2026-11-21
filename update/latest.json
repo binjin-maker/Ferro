@@ -1,6 +1,6 @@
 {
-  "version": "98",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/93d281dc9a5cb4ae951c9b4a770c0090625ce8ab/update/Ferro.ex_",
-  "sha256": "7379d9fa60c621d2068ab16876d0a4a1439dfb19d4af9ef597b6f6268cd9d140",
-  "notes": "BUILD 98\n- Big Rig: no glass anywhere in the cab, and the tall dash that looked like a dark windshield is now a slim one, so the view out the front is open."
+  "version": "99",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/07bc1c2f6b60d229c52d7573195dd9f8c2923e76/update/Ferro.ex_",
+  "sha256": "9d12532c9eee6af92f3d1bf784a05c08649670ef839c6cb3e0594e22aba1ab2f",
+  "notes": "BUILD 99  -  less \"generated\", more hand-made\n- Text: every message, tooltip, item description and job card rewritten short and plain. No more chatty sentences.\n- Rust and sheet metal: rust now runs down in streaks and patches instead of an even polka-dot pattern.\n- Repeated panels (fences, walls, hulls, painted metal) each get their own patch of texture, so rows of them no longer look copy-pasted.\n- Rocks, bushes, ore nodes and loose sticks gather in natural patches instead of an even sprinkle across the map.\n- Rocks and loot barrels/crates each have slightly different shades.\n- Your footsteps, swings and landings vary in pitch so they never sound like the same clip.\n- Landing from a jump or fall dips the camera a little."
 }
