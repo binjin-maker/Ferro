@@ -1,6 +1,6 @@
 {
-  "version": "95",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/893f4e8b12821773ff84aeb672e3a2eaf0bbb96d/update/Ferro.ex_",
-  "sha256": "61f14f4d853c99a249f9a54b62009c43e5687b733a49615a92f6903963444cd1",
-  "notes": "BUILD 95\n- The Floating Market is busier: a boat seller (dinghy, military dinghy, speedboat, left at a new slip off its east side), a Boat Mechanic selling low and regular quality pistons, spark plugs and carburetors with fuel, a wrench and metal fragments, an awning over the two, fish drying on a line, nets, crates and more barrels.\n- The Fishing Port no longer has a recycler standing in the water where boats are tied up."
+  "version": "96",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/18f8ee87cb557e665115d65eaac0b6d4bc178240/update/Ferro.ex_",
+  "sha256": "751db6125a20fbd953f2ecdfcfc49d2fac54517c2196dcb124438cde12b8c1d8",
+  "notes": "BUILD 96\n- New: Temp Pro Suit (suit slot, Tier 2 bench). Heats and cools itself so you never get too hot or too cold.\n- Fix: shadows no longer flash when moving fast (shadows refresh every frame at speed).\n- Fix: fuel in a destroyed vehicle burns up with it instead of dropping on the ground."
 }
