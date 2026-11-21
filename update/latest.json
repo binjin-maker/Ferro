@@ -1,6 +1,6 @@
 {
-  "version": "96",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/18f8ee87cb557e665115d65eaac0b6d4bc178240/update/Ferro.ex_",
-  "sha256": "751db6125a20fbd953f2ecdfcfc49d2fac54517c2196dcb124438cde12b8c1d8",
-  "notes": "BUILD 96\n- New: Temp Pro Suit (suit slot, Tier 2 bench). Heats and cools itself so you never get too hot or too cold.\n- Fix: shadows no longer flash when moving fast (shadows refresh every frame at speed).\n- Fix: fuel in a destroyed vehicle burns up with it instead of dropping on the ground."
+  "version": "97",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/5ada0832b29f4b437970b3028076dd88aa2d1fea/update/Ferro.ex_",
+  "sha256": "b7f0a8d8f270c1a85e093e69ba34ca389f73455f4a545c6b208c979306851bf6",
+  "notes": "BUILD 97\n- Fix: helicopter tail booms and fins are solid now, you can't walk through them.\n- Fix: minicopter seat back leans back instead of forward.\n- Fix: no more owl-head in helicopters (free look and gun look stop a bit past the shoulder, like cars)."
 }
