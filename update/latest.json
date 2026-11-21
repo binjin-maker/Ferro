@@ -1,6 +1,6 @@
 {
-  "version": "89",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/7f8d46de1e47f0d46f2f0590bff9d12aabaa7270/update/Ferro.ex_",
-  "sha256": "83884b97192d68bf42b06acef24121cd24cd9dfc223cb0a5183fa91f2259c59a",
-  "notes": "BUILD 89\n- Helicopters cost more again: minicopter 900 scrap (was 500), transport 1500 (was 850), attack helicopter 2500 (was 1500)."
+  "version": "90",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/c23a0e160e02bb7af1c04250d316f7ff503599b6/update/Ferro.ex_",
+  "sha256": "d24f7fcf228b8a07cb99146b420062bddc1ef74e4b297d944fe1892aae18f07a",
+  "notes": "BUILD 90\n- The Big Rig: a semi tractor with a 36-slot box trailer, sold only at the Mechanic's Garage (1500 bare, 1900 assembled). It never turns up on the roads. The trailer hangs from the plate and trails behind: it swings wide of the corners the cab cuts, and folds up to about 80 degrees if you back it round too hard. E on the trailer opens it.\n- Haulage jobs go up to 25,000. Freight that will not fit on you is loaded straight into your own vehicles parked within 40 m of the job board, so a truck or the Big Rig can take the big loads.\n- The job board cards grow to fit their text: no more lines running into each other.\n- Gas pumps work: drive a car, truck or helicopter of yours up to one and press E on the pump. It fills the tank with pumped Low Grade Fuel at 1 scrap per 20, up to 500, until you stop it, walk off, or run out of scrap. Pumped fuel stays in the tank (it cannot be taken out), and a pump will not fill a tank that has canned fuel or anything else in it.\n- Animals bolt from vehicles with their engines running, and scientists and survivors step out of the way of anything coming at them. Nobody walks through a vehicle any more, and animals can no longer shove a car across the ground.\n- Seat backs lean back instead of forward.\n- The barrier and turret in front of the Outpost's motor pool bays are gone."
 }
