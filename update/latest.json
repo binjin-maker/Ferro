@@ -1,6 +1,6 @@
 {
-  "version": "97",
-  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/5ada0832b29f4b437970b3028076dd88aa2d1fea/update/Ferro.ex_",
-  "sha256": "b7f0a8d8f270c1a85e093e69ba34ca389f73455f4a545c6b208c979306851bf6",
-  "notes": "BUILD 97\n- Fix: helicopter tail booms and fins are solid now, you can't walk through them.\n- Fix: minicopter seat back leans back instead of forward.\n- Fix: no more owl-head in helicopters (free look and gun look stop a bit past the shoulder, like cars)."
+  "version": "98",
+  "url": "https://raw.githubusercontent.com/binjin-maker/Ferro/93d281dc9a5cb4ae951c9b4a770c0090625ce8ab/update/Ferro.ex_",
+  "sha256": "7379d9fa60c621d2068ab16876d0a4a1439dfb19d4af9ef597b6f6268cd9d140",
+  "notes": "BUILD 98\n- Big Rig: no glass anywhere in the cab, and the tall dash that looked like a dark windshield is now a slim one, so the view out the front is open."
 }
